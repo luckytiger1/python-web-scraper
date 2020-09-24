@@ -1,0 +1,1144 @@
+movie,year,rating,genre,imdb,metascore,votes,grosses,n_imdb,runtime_min
+Tenet,2020,PG-13,"['Action', ' Sci-Fi']",7.8,69,112715,,78,150
+Dune,1984,,"['Action', ' Adventure', ' Sci-Fi']",6.5,40,123556,30925690.0,65,137
+Bill & Ted Face the Music,2020,PG-13,"['Adventure', ' Comedy', ' Music']",6.3,65,17382,,63,91
+The New Mutants,2020,PG-13,"['Action', ' Horror', ' Sci-Fi']",5.5,43,10827,,55,94
+Interstellar,2014,PG-13,"['Adventure', ' Drama', ' Sci-Fi']",8.6,74,1458686,188020017.0,86,169
+Avengers: Endgame,2019,PG-13,"['Action', ' Adventure', ' Drama']",8.4,78,763013,858373000.0,84,181
+Black Panther,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.3,88,605529,700059566.0,73,134
+Inception,2010,PG-13,"['Action', ' Adventure', ' Sci-Fi']",8.8,74,2012633,292576195.0,88,148
+Project Power,2020,R,"['Action', ' Crime', ' Sci-Fi']",6.0,51,53570,,60,113
+Blade Runner 2049,2017,R,"['Action', ' Drama', ' Mystery']",8.0,81,443643,92054159.0,80,164
+Bill & Ted's Excellent Adventure,1989,,"['Adventure', ' Comedy', ' Music']",7.0,50,114490,40485039.0,70,90
+Back to the Future,1985,,"['Adventure', ' Comedy', ' Sci-Fi']",8.5,87,1031245,210609762.0,85,116
+Deadpool 2,2018,R,"['Action', ' Adventure', ' Comedy']",7.7,66,462864,324591735.0,77,119
+Avengers: Infinity War,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",8.4,68,801246,678815482.0,84,149
+Terminator: Dark Fate,2019,R,"['Action', ' Adventure', ' Sci-Fi']",6.2,54,135109,62253077.0,62,128
+Star Wars: Episode IX - The Rise of Skywalker,2019,PG-13,"['Action', ' Adventure', ' Fantasy']",6.6,53,350299,515202542.0,66,141
+Deadpool,2016,R,"['Action', ' Adventure', ' Comedy']",8.0,65,884435,363070709.0,80,108
+The Prestige,2006,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",8.5,66,1160436,53089891.0,85,130
+Mad Max: Fury Road,2015,R,"['Action', ' Adventure', ' Sci-Fi']",8.1,90,859460,154058340.0,81,120
+The Matrix,1999,R,"['Action', ' Sci-Fi']",8.7,73,1637408,171479930.0,87,136
+Spies in Disguise,2019,PG,"['Animation', ' Action', ' Adventure']",6.8,54,29474,,68,102
+Thor: Ragnarok,2017,PG-13,"['Action', ' Adventure', ' Comedy']",7.9,74,567168,315058289.0,79,130
+Jurassic Park,1993,PG-13,"['Action', ' Adventure', ' Sci-Fi']",8.1,68,848802,402453882.0,81,127
+Watchmen,2009,R,"['Action', ' Drama', ' Mystery']",7.6,56,492607,107509799.0,76,162
+The Hunger Games,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.2,68,831998,408010692.0,72,142
+The Invisible Man,2020,R,"['Horror', ' Mystery', ' Sci-Fi']",7.1,72,133479,64914050.0,71,124
+Suicide Squad,2016,PG-13,"['Action', ' Adventure', ' Fantasy']",6.0,40,588799,325100054.0,60,123
+Night of the Lepus,1972,PG,"['Horror', ' Sci-Fi', ' Thriller']",4.2,37,4226,,42,88
+Prometheus,2012,R,"['Adventure', ' Mystery', ' Sci-Fi']",7.0,64,561566,126477084.0,70,124
+Venom,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.7,35,347582,213515506.0,67,112
+Guardians of the Galaxy,2014,PG-13,"['Action', ' Adventure', ' Comedy']",8.0,76,1025628,333176600.0,80,121
+Midnight Special,2016,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.6,76,73816,3707794.0,66,112
+Bill & Ted's Bogus Journey,1991,,"['Adventure', ' Comedy', ' Fantasy']",6.3,60,66250,38037513.0,63,93
+Spider-Man: Into the Spider-Verse,2018,PG,"['Animation', ' Action', ' Adventure']",8.4,87,339407,190241310.0,84,117
+Eternal Sunshine of the Spotless Mind,2004,R,"['Drama', ' Romance', ' Sci-Fi']",8.3,89,892894,34400301.0,83,108
+Time Trap,2017,,"['Action', ' Adventure', ' Sci-Fi']",6.3,46,24749,,63,87
+Aquaman,2018,PG-13,"['Action', ' Adventure', ' Fantasy']",6.9,55,351402,335061807.0,69,143
+Bloodshot,2020,PG-13,"['Action', ' Drama', ' Sci-Fi']",5.7,44,51278,,57,109
+Justice League,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",6.3,45,372913,229024295.0,63,120
+Blade Runner,1982,R,"['Action', ' Sci-Fi', ' Thriller']",8.1,84,680091,32868943.0,81,117
+Captain Marvel,2019,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,64,424846,426829839.0,69,123
+Alita: Battle Angel,2019,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.3,53,218803,85710210.0,73,122
+Avengers: Age of Ultron,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.3,66,724834,459005868.0,73,141
+Captain America: The First Avenger,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,66,725387,176654505.0,69,124
+Spider-Man: Far from Home,2019,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.5,69,307080,390532085.0,75,129
+Ad Astra,2019,PG-13,"['Adventure', ' Drama', ' Mystery']",6.6,80,187487,35397514.0,66,123
+Alien,1979,R,"['Horror', ' Sci-Fi']",8.4,89,771281,78900000.0,84,117
+A Clockwork Orange,1971,,"['Crime', ' Drama', ' Sci-Fi']",8.3,77,742482,6207725.0,83,136
+Avatar,2009,PG-13,"['Action', ' Adventure', ' Fantasy']",7.8,83,1103191,760507625.0,78,162
+Back to the Future Part II,1989,,"['Adventure', ' Comedy', ' Sci-Fi']",7.8,57,469651,118500000.0,78,108
+Spider-Man: Homecoming,2017,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.4,73,496105,334201140.0,74,133
+El hoyo,2019,,"['Horror', ' Sci-Fi', ' Thriller']",7.0,73,147675,,70,94
+Ready Player One,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.5,64,355405,137690172.0,75,140
+Guardians of the Galaxy Vol. 2,2017,PG-13,"['Action', ' Adventure', ' Comedy']",7.6,67,552527,389813101.0,76,136
+Galaxy Quest,1999,PG,"['Adventure', ' Comedy', ' Sci-Fi']",7.3,70,146429,71583916.0,73,102
+Arrival,2016,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",7.9,81,578134,100546139.0,79,116
+Snowpiercer,2013,R,"['Action', ' Drama', ' Sci-Fi']",7.1,84,308915,4563650.0,71,126
+Vivarium,2019,R,"['Comedy', ' Horror', ' Mystery']",5.8,64,30257,,58,97
+The Avengers,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",8.0,69,1243444,623279547.0,80,143
+Divergent,2014,PG-13,"['Action', ' Adventure', ' Mystery']",6.7,48,419661,150947895.0,67,139
+Доктор Стрэндж,2016,PG-13,"['Action', ' Adventure', ' Fantasy']",7.5,72,580957,232641920.0,75,115
+Iron Man,2008,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.9,79,922852,318412101.0,79,126
+Wonder Woman,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",7.4,76,537860,412563408.0,74,141
+Gemini Man,2019,PG-13,"['Action', ' Drama', ' Sci-Fi']",5.7,38,77028,20552372.0,57,117
+Star Wars,1977,PG,"['Action', ' Adventure', ' Fantasy']",8.6,90,1207111,322740140.0,86,121
+Dark Phoenix,2019,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.8,43,147582,65845974.0,58,113
+The Terminator,1984,,"['Action', ' Sci-Fi']",8.0,84,786560,38400000.0,80,107
+Underwater,2020,PG-13,"['Action', ' Horror', ' Sci-Fi']",5.8,48,49887,,58,95
+A Quiet Place,2018,PG-13,"['Drama', ' Horror', ' Sci-Fi']",7.5,82,393272,188024361.0,75,90
+Sputnik,2020,,"['Drama', ' Horror', ' Sci-Fi']",6.3,61,7482,,63,113
+Batman v Superman: Dawn of Justice,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.4,44,614044,330360194.0,64,152
+Sonic the Hedgehog,2020,PG,"['Action', ' Adventure', ' Comedy']",6.5,47,76240,146066470.0,65,99
+Donnie Darko,2001,R,"['Drama', ' Mystery', ' Sci-Fi']",8.0,88,729656,1480006.0,80,113
+Logan,2017,R,"['Action', ' Drama', ' Sci-Fi']",8.1,77,629974,226277068.0,81,137
+Rogue One,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.8,65,540189,532177324.0,78,133
+The Fifth Element,1997,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.7,52,426834,63540020.0,77,126
+Her,2013,R,"['Drama', ' Romance', ' Sci-Fi']",8.0,90,525913,25568251.0,80,126
+Close Encounters of the Third Kind,1977,,"['Drama', ' Sci-Fi']",7.6,90,181053,132088635.0,76,138
+Coneheads,1993,PG,"['Comedy', ' Sci-Fi']",5.3,49,50090,21274717.0,53,88
+Star Wars: Episode I - The Phantom Menace,1999,PG,"['Action', ' Adventure', ' Fantasy']",6.5,51,714806,474544677.0,65,136
+The Shape of Water,2017,R,"['Adventure', ' Drama', ' Fantasy']",7.3,87,358971,63859435.0,73,123
+Captain America: Civil War,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.8,75,646573,408084349.0,78,147
+Man of Steel,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,55,680296,291045518.0,70,143
+Valerian and the City of a Thousand Planets,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",6.5,51,158233,41189488.0,65,136
+Spider-Man,2002,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.3,73,676685,403706375.0,73,121
+The Truman Show,1998,PG,"['Comedy', ' Drama', ' Sci-Fi']",8.1,90,914104,125618201.0,81,103
+Weird Science,1985,,"['Comedy', ' Romance', ' Sci-Fi']",6.6,46,78592,23834048.0,66,94
+Alien: Covenant,2017,R,"['Horror', ' Sci-Fi', ' Thriller']",6.4,65,248867,74262031.0,64,122
+Annihilation,2018,R,"['Adventure', ' Drama', ' Horror']",6.8,79,272632,32732301.0,68,115
+The Wolverine,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.7,61,423317,132556852.0,67,126
+E.T. the Extra-Terrestrial,1982,PG,"['Family', ' Sci-Fi']",7.8,91,363809,435110554.0,78,115
+Under the Skin,2013,R,"['Drama', ' Horror', ' Sci-Fi']",6.3,80,126582,2605039.0,63,108
+Total Recall,1990,,"['Action', ' Sci-Fi', ' Thriller']",7.5,57,296567,119394840.0,75,113
+Transformers,2007,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,61,590176,319246193.0,70,144
+Ex Machina,2014,R,"['Drama', ' Sci-Fi', ' Thriller']",7.7,78,464049,25442958.0,77,108
+Solo: A Star Wars Story,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,62,279630,213767512.0,69,135
+Terminator 2: Judgment Day,1991,R,"['Action', ' Sci-Fi']",8.5,75,977582,204843350.0,85,137
+2001: A Space Odyssey,1968,,"['Adventure', ' Sci-Fi']",8.3,84,589928,56954992.0,83,149
+The Martian,2015,PG-13,"['Adventure', ' Drama', ' Sci-Fi']",8.0,80,743036,228433663.0,80,144
+X-Men,2000,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.4,64,563097,157299717.0,74,104
+Starship Troopers,1997,R,"['Action', ' Adventure', ' Sci-Fi']",7.2,51,265224,54814377.0,72,129
+Edge of Tomorrow,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.9,71,587714,100206256.0,79,113
+Aliens,1986,R,"['Action', ' Adventure', ' Sci-Fi']",8.3,84,641204,85160248.0,83,137
+Event Horizon,1997,R,"['Horror', ' Sci-Fi', ' Thriller']",6.7,35,155987,26673242.0,67,96
+V for Vendetta,2005,R,"['Action', ' Drama', ' Sci-Fi']",8.2,62,1012282,70511035.0,82,132
+Possessor,2020,,"['Horror', ' Sci-Fi', ' Thriller']",6.3,69,1868,,63,103
+X-Men: Apocalypse,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,52,385871,155442489.0,69,144
+The Thing,1982,,"['Horror', ' Mystery', ' Sci-Fi']",8.1,57,361438,13782838.0,81,109
+Looper,2012,R,"['Action', ' Drama', ' Sci-Fi']",7.4,84,527350,66486205.0,74,113
+Iron Man Three,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.2,62,741533,409013994.0,72,130
+Color Out of Space,2019,,"['Horror', ' Mystery', ' Sci-Fi']",6.2,70,25703,,62,111
+Jurassic World: Fallen Kingdom,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,51,257766,417719760.0,62,128
+Upgrade,2018,R,"['Action', ' Sci-Fi', ' Thriller']",7.5,67,149931,11977130.0,75,100
+Jurassic World,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,59,570568,652270625.0,70,124
+The Hunger Games: Catching Fire,2013,PG-13,"['Action', ' Adventure', ' Mystery']",7.5,76,604178,424668047.0,75,146
+About Time,2013,R,"['Comedy', ' Drama', ' Fantasy']",7.8,55,290826,15322921.0,78,123
+Captain America: The Winter Soldier,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.7,70,721004,259766572.0,77,136
+Star Wars: Episode VIII - The Last Jedi,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",7.0,84,549471,620181382.0,70,152
+Ant-Man,2015,PG-13,"['Action', ' Adventure', ' Comedy']",7.3,64,555618,180202163.0,73,117
+Back to the Future Part III,1990,,"['Adventure', ' Comedy', ' Sci-Fi']",7.4,55,395595,87727583.0,74,118
+Overlord,2018,R,"['Action', ' Adventure', ' Horror']",6.6,60,81692,21704844.0,66,110
+X: First Class,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.7,65,638009,146408305.0,77,131
+Artemis Fowl,2020,PG,"['Adventure', ' Family', ' Fantasy']",4.2,31,18916,,42,95
+Mortal Engines,2018,PG-13,"['Action', ' Adventure', ' Fantasy']",6.1,44,101015,15951040.0,61,128
+Jupiter Ascending,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.3,40,176523,47387723.0,53,127
+Stargate,1994,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.1,42,172859,71565669.0,71,116
+Passengers,2016,PG-13,"['Drama', ' Romance', ' Sci-Fi']",7.0,41,341596,100014699.0,70,116
+Vanilla Sky,2001,R,"['Fantasy', ' Mystery', ' Romance']",6.9,45,245396,100614858.0,69,136
+Star Trek,2009,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.9,82,572402,257730019.0,79,127
+The Meg,2018,PG-13,"['Action', ' Horror', ' Sci-Fi']",5.6,46,144444,143005856.0,56,113
+Synchronic,2019,,"['Drama', ' Horror', ' Sci-Fi']",6.7,61,499,,67,96
+Hot Tub Time Machine,2010,R,"['Comedy', ' Sci-Fi']",6.4,63,160269,50287556.0,64,101
+Fantastic Four,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",4.3,27,149659,56117548.0,43,100
+Glass,2019,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",6.7,43,199042,111048468.0,67,129
+Star Wars: Episode VII - The Force Awakens,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.9,80,846619,936662225.0,79,138
+Batman & Robin,1997,PG-13,"['Action', ' Sci-Fi']",3.8,28,231087,107325195.0,38,125
+Star Wars: Episode V - The Empire Strikes Back,1980,PG,"['Action', ' Adventure', ' Fantasy']",8.7,82,1135189,290475067.0,87,124
+Godzilla: King of the Monsters,2019,PG-13,"['Action', ' Adventure', ' Fantasy']",6.0,48,126206,110500138.0,60,132
+Oblivion,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,54,477712,89021735.0,70,124
+X-Men: Days of Future Past,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.9,75,651519,233921534.0,79,132
+Bird Box,2018,R,"['Horror', ' Sci-Fi']",6.6,51,268375,,66,124
+Don't Let Go,2019,R,"['Drama', ' Horror', ' Mystery']",6.2,49,4897,4686540.0,62,103
+Kong: Skull Island,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",6.6,62,262707,168052812.0,66,118
+Children of Men,2006,R,"['Adventure', ' Drama', ' Sci-Fi']",7.9,84,457586,35552383.0,79,109
+Freaks,2018,R,"['Drama', ' Mystery', ' Sci-Fi']",6.7,63,24263,,67,105
+The Dead Don't Die,2019,R,"['Comedy', ' Fantasy', ' Horror']",5.5,53,47277,6563605.0,55,104
+Iron Man 2,2010,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,57,708101,312433331.0,70,124
+Splice,2009,R,"['Drama', ' Horror', ' Sci-Fi']",5.7,66,92443,16999046.0,57,104
+X-Men Origins: Wolverine,2009,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.6,40,460675,179883157.0,66,107
+Idiocracy,2006,R,"['Adventure', ' Comedy', ' Sci-Fi']",6.6,66,142322,438653.0,66,84
+Minority Report,2002,PG-13,"['Action', ' Crime', ' Mystery']",7.6,80,499923,132072926.0,76,145
+Replicas,2018,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",5.5,19,29944,4046429.0,55,107
+G.I. Joe: The Rise of Cobra,2009,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.8,32,197218,152267519.0,58,118
+The Lost World: Jurassic Park,1997,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.6,59,372096,229086679.0,66,129
+Super 8,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,72,334953,127004179.0,70,112
+Mad Max,1979,,"['Action', ' Adventure', ' Sci-Fi']",6.9,73,188381,8750000.0,69,88
+Transformers: The Last Knight,2017,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.2,27,132628,130168683.0,52,154
+The Lobster,2015,R,"['Comedy', ' Drama', ' Romance']",7.2,82,211141,8699235.0,72,119
+Men in Black,1997,PG-13,"['Action', ' Adventure', ' Comedy']",7.3,71,508088,250690539.0,73,98
+Predator,1987,,"['Action', ' Adventure', ' Sci-Fi']",7.8,45,365497,59735548.0,78,107
+Темная башня,2017,PG-13,"['Action', ' Adventure', ' Fantasy']",5.6,34,124488,50701325.0,56,95
+The Maze Runner,2014,PG-13,"['Action', ' Mystery', ' Sci-Fi']",6.8,57,409693,102427862.0,68,113
+Cloud Atlas,2012,R,"['Action', ' Drama', ' Mystery']",7.4,55,340864,27108272.0,74,172
+WALL·E,2008,,"['Animation', ' Adventure', ' Family']",8.4,95,977596,223808164.0,84,98
+Spaceballs,1987,,"['Adventure', ' Comedy', ' Sci-Fi']",7.1,46,169200,38119483.0,71,96
+The Incredible Hulk,2008,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.7,61,427103,134518390.0,67,112
+Life,2017,R,"['Horror', ' Sci-Fi', ' Thriller']",6.6,54,203239,30234022.0,66,104
+Star Wars: Episode III - Revenge of the Sith,2005,PG-13,"['Action', ' Adventure', ' Fantasy']",7.5,68,695931,380262555.0,75,140
+Twelve Monkeys,1995,R,"['Mystery', ' Sci-Fi', ' Thriller']",8.0,74,569763,57141459.0,80,129
+Bumblebee,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.8,66,132579,127195589.0,68,114
+Dredd,2012,R,"['Action', ' Crime', ' Sci-Fi']",7.1,60,246891,13414714.0,71,95
+Allegiant,2016,PG-13,"['Action', ' Adventure', ' Mystery']",5.7,33,106121,66184051.0,57,120
+Rampage,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.1,45,138635,101028233.0,61,107
+Insurgent,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,42,213732,130179072.0,62,119
+Archive,2020,,"['Drama', ' Sci-Fi', ' Thriller']",6.3,67,5542,,63,109
+I Am Legend,2007,PG-13,"['Action', ' Adventure', ' Drama']",7.2,65,675865,256386216.0,72,101
+Star Wars: Episode VI - Return of the Jedi,1983,PG,"['Action', ' Adventure', ' Fantasy']",8.3,58,930536,309125409.0,83,131
+High Life,2018,R,"['Adventure', ' Drama', ' Horror']",5.8,77,26350,1225852.0,58,113
+Men in Black: International,2019,PG-13,"['Action', ' Adventure', ' Comedy']",5.6,38,104070,80001807.0,56,114
+Serenity,2005,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.8,74,280267,25514517.0,78,119
+Fantastic Four,2005,PG-13,"['Action', ' Adventure', ' Fantasy']",5.7,40,308438,154696080.0,57,106
+Incredibles 2,2018,PG,"['Animation', ' Action', ' Adventure']",7.6,80,240652,608581744.0,76,118
+Zombieland,2009,R,"['Adventure', ' Comedy', ' Fantasy']",7.6,73,512008,75590286.0,76,88
+In Time,2011,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.7,53,364524,37520095.0,67,109
+Ant-Man and the Wasp,2018,PG-13,"['Action', ' Adventure', ' Comedy']",7.1,70,297146,216648740.0,71,118
+The League of Extraordinary Gentlemen,2003,PG-13,"['Action', ' Adventure', ' Fantasy']",5.8,30,164626,66465204.0,58,110
+The Matrix Reloaded,2003,R,"['Action', ' Sci-Fi']",7.2,62,507034,281492479.0,72,138
+Big Hero 6,2014,PG,"['Animation', ' Action', ' Adventure']",7.8,74,402028,222527828.0,78,102
+Star Trek Beyond,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.1,68,223900,158848340.0,71,122
+Phineas and Ferb the Movie: Candace Against the Universe,2020,,"['Animation', ' Adventure', ' Comedy']",7.3,77,1873,,73,86
+World War Z,2013,PG-13,"['Action', ' Adventure', ' Horror']",7.0,63,591502,202359711.0,70,116
+Brightburn,2019,R,"['Drama', ' Horror', ' Mystery']",6.1,44,74899,17300439.0,61,90
+Armageddon,1998,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.7,42,390496,201573391.0,67,151
+Deep Impact,1998,PG-13,"['Action', ' Drama', ' Romance']",6.2,40,161258,140464664.0,62,120
+X-Men: The Last Stand,2006,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.7,58,476293,234362462.0,67,104
+Independence Day,1996,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.0,59,521020,306169255.0,70,145
+Predestination,2014,R,"['Action', ' Drama', ' Sci-Fi']",7.5,69,246722,68372.0,75,97
+Star Wars: Episode II - Attack of the Clones,2002,PG,"['Action', ' Adventure', ' Fantasy']",6.5,54,627299,310675583.0,65,142
+Face/Off,1997,R,"['Action', ' Crime', ' Sci-Fi']",7.3,82,344215,112225777.0,73,138
+Battleship,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.8,41,233807,65422625.0,58,131
+Tron,2010,PG,"['Action', ' Adventure', ' Sci-Fi']",6.8,49,309578,172062763.0,68,125
+War of the Worlds,2005,PG-13,"['Adventure', ' Sci-Fi', ' Thriller']",6.5,73,409862,234280354.0,65,116
+Mars Attacks!,1996,PG-13,"['Comedy', ' Sci-Fi']",6.3,52,206955,37771017.0,63,106
+Zathura: A Space Adventure,2005,PG,"['Action', ' Adventure', ' Comedy']",6.2,67,91452,29258869.0,62,101
+The Vast of Night,2019,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.7,84,19854,,67,91
+Power Rangers,2017,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.9,44,100209,85364450.0,59,124
+Resident Evil,2002,R,"['Action', ' Horror', ' Sci-Fi']",6.7,33,243722,40119709.0,67,100
+Spider-Man 3,2007,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,59,490673,336530303.0,62,139
+Lucy,2014,R,"['Action', ' Sci-Fi', ' Thriller']",6.4,61,435218,126663600.0,64,89
+28 Days Later...,2002,R,"['Drama', ' Horror', ' Sci-Fi']",7.6,73,370248,45064915.0,76,113
+Gravity,2013,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",7.7,96,757270,274092705.0,77,91
+Star Trek Into Darkness,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.7,72,459062,228778661.0,77,132
+Masters of the Universe,1987,,"['Action', ' Adventure', ' Fantasy']",5.4,35,36261,17336370.0,54,106
+What Happened to Monday,2017,,"['Action', ' Adventure', ' Crime']",6.9,47,100120,,69,123
+Terminator Genisys,2015,PG-13,"['Action', ' Adventure', ' Fantasy']",6.3,38,255428,89760956.0,63,126
+The Hunger Games: Mockingjay - Part 2,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.5,65,278407,281723902.0,65,137
+Кара киiмдiлер 3,2012,PG-13,"['Action', ' Adventure', ' Comedy']",6.8,58,330331,179020854.0,68,106
+Okja,2017,,"['Action', ' Adventure', ' Drama']",7.3,75,100115,,73,120
+Green Lantern,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.5,39,263758,116601172.0,55,114
+"Honey, I Shrunk the Kids",1989,,"['Adventure', ' Comedy', ' Family']",6.4,63,140058,130724172.0,64,93
+Superman,1978,PG,"['Action', ' Adventure', ' Drama']",7.3,80,156761,134218018.0,73,143
+Hellboy,2019,R,"['Action', ' Adventure', ' Fantasy']",5.2,31,75054,21903748.0,52,120
+Crawl,2019,R,"['Action', ' Drama', ' Horror']",6.2,60,62653,39014193.0,62,87
+The Predator,2018,R,"['Action', ' Adventure', ' Sci-Fi']",5.3,48,113512,51024708.0,53,107
+Demolition Man,1993,R,"['Action', ' Sci-Fi', ' Thriller']",6.7,34,155946,58055768.0,67,115
+Pacific Rim,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,65,460469,101802906.0,69,131
+The Butterfly Effect,2004,R,"['Drama', ' Sci-Fi', ' Thriller']",7.6,30,445162,57938693.0,76,113
+They Live,1988,,"['Action', ' Horror', ' Sci-Fi']",7.3,55,107060,13008928.0,73,94
+Geostorm,2017,PG-13,"['Action', ' Sci-Fi', ' Thriller']",5.3,21,91178,33700160.0,53,109
+The Island,2005,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.8,50,297722,35818913.0,68,136
+Жана Ормекшi-адам,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.9,66,550976,262030663.0,69,136
+The Mist,2007,R,"['Horror', ' Sci-Fi', ' Thriller']",7.1,58,276552,25593755.0,71,126
+G.I. Joe: Retaliation,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.8,41,171543,122523060.0,58,110
+WarGames,1983,,"['Action', ' Adventure', ' Drama']",7.1,77,88824,79568000.0,71,114
+2012,2009,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.8,49,347957,166112167.0,58,158
+Planet of the Apes,2001,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.7,50,208219,180011740.0,57,119
+Barbarella,1968,,"['Adventure', ' Comedy', ' Fantasy']",5.9,51,31734,,59,98
+Waterworld,1995,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,56,177546,88246220.0,62,135
+Doom,2005,R,"['Action', ' Horror', ' Sci-Fi']",5.2,34,105281,28212337.0,52,105
+In the Shadow of the Moon,2019,,"['Crime', ' Mystery', ' Sci-Fi']",6.2,48,37392,,62,115
+RoboCop,1987,,"['Action', ' Crime', ' Sci-Fi']",7.5,67,228830,53424681.0,75,102
+Code 8,2019,,"['Action', ' Crime', ' Drama']",6.1,48,31337,,61,98
+Jurassic Park III,2001,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.9,42,291590,181171875.0,59,92
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,PG-13,"['Action', ' Adventure', ' Comedy']",6.0,40,82886,82051601.0,60,112
+Spider-Man 2,2004,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.3,83,533848,373585825.0,73,127
+Hotel Artemis,2018,R,"['Action', ' Crime', ' Drama']",6.1,58,42554,6708147.0,61,94
+Earth Girls Are Easy,1988,,"['Comedy', ' Musical', ' Romance']",5.4,66,19937,3916303.0,54,100
+Ghostbusters,2016,PG-13,"['Action', ' Comedy', ' Fantasy']",6.5,60,200532,128344089.0,65,117
+Battlestar Galactica,1979,,"['Action', ' Adventure', ' Sci-Fi']",7.2,39,13494,,72,60
+Mr. Nobody,2009,R,"['Drama', ' Fantasy', ' Romance']",7.8,63,212349,3600.0,78,141
+Sky High,2005,PG,"['Adventure', ' Comedy', ' Family']",6.2,62,77520,63946815.0,62,100
+"I, Robot",2004,PG-13,"['Action', ' Drama', ' Sci-Fi']",7.1,59,491943,144801023.0,71,115
+The Thing,2011,R,"['Horror', ' Mystery', ' Sci-Fi']",6.2,49,119872,16928670.0,62,103
+X2,2003,PG-13,"['Action', ' Adventure', ' Sci-Fi']",7.4,68,505035,214949694.0,74,134
+Teenage Mutant Ninja Turtles,2014,PG-13,"['Action', ' Adventure', ' Comedy']",5.8,31,198939,191204754.0,58,101
+The Hunger Games: Mockingjay - Part 1,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.6,64,405447,337135885.0,66,123
+Contact,1997,PG,"['Drama', ' Mystery', ' Sci-Fi']",7.4,62,249629,100920329.0,74,150
+The Circle,2017,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",5.3,43,82162,20497844.0,53,110
+Pokémon: Detective Pikachu,2019,PG,"['Action', ' Adventure', ' Comedy']",6.6,53,131368,144105346.0,66,104
+Signs,2002,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.7,59,332330,227966634.0,67,106
+The First Purge,2018,R,"['Action', ' Horror', ' Sci-Fi']",5.2,54,52804,69488745.0,52,97
+Little Shop of Horrors,1986,PG-13,"['Comedy', ' Horror', ' Musical']",7.0,81,64036,38747385.0,70,94
+Ghost in the Shell,2017,PG-13,"['Action', ' Crime', ' Drama']",6.3,52,191978,40563557.0,63,107
+I Am Mother,2019,,"['Drama', ' Mystery', ' Sci-Fi']",6.7,64,71408,,67,113
+Moon,2009,R,"['Drama', ' Mystery', ' Sci-Fi']",7.9,67,330453,5009677.0,79,97
+Flash Gordon,1980,,"['Action', ' Adventure', ' Sci-Fi']",6.5,58,49959,,65,111
+The Faculty,1998,R,"['Horror', ' Sci-Fi']",6.5,61,109016,40064955.0,65,104
+The Wave,2019,R,"['Sci-Fi', ' Thriller']",6.0,51,2835,,60,87
+Elysium,2013,R,"['Action', ' Drama', ' Sci-Fi']",6.6,61,414500,93050117.0,66,109
+John Carter,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.6,51,252201,73078100.0,66,132
+10 Cloverfield Lane,2016,PG-13,"['Action', ' Drama', ' Horror']",7.2,76,284025,72082998.0,72,103
+Knowing,2009,PG-13,"['Action', ' Drama', ' Mystery']",6.2,41,218130,79957634.0,62,121
+A Cure for Wellness,2016,R,"['Drama', ' Fantasy', ' Horror']",6.4,47,82996,8106986.0,64,146
+The Day After Tomorrow,2004,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.4,47,409175,186740799.0,64,124
+The Day the Earth Stood Still,2008,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",5.5,40,161878,79366978.0,55,104
+Transformers: Dark of the Moon,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,42,380605,352390543.0,62,154
+Cargo,2017,,"['Drama', ' Horror', ' Sci-Fi']",6.3,65,34928,,63,105
+Gwoemul,2006,R,"['Action', ' Drama', ' Horror']",7.1,85,103462,2201923.0,71,120
+Hollow Man,2000,R,"['Action', ' Horror', ' Sci-Fi']",5.8,24,122178,73209340.0,58,112
+Sorry to Bother You,2018,R,"['Comedy', ' Fantasy', ' Sci-Fi']",6.9,80,58404,17493096.0,69,112
+District 9,2009,R,"['Action', ' Sci-Fi', ' Thriller']",7.9,81,631196,115646235.0,79,112
+Hulk,2003,PG-13,"['Action', ' Sci-Fi']",5.6,54,249120,132177234.0,56,138
+Terminator Salvation,2009,PG-13,"['Action', ' Adventure', ' Fantasy']",6.5,49,339718,125322469.0,65,115
+The World's End,2013,R,"['Comedy', ' Sci-Fi']",7.0,81,254814,26004851.0,70,109
+4: Rise of the Silver Surfer,2007,PG,"['Action', ' Adventure', ' Fantasy']",5.6,45,248157,131921738.0,56,92
+Blade,1998,R,"['Action', ' Horror', ' Sci-Fi']",7.1,45,240674,70087718.0,71,120
+Child's Play,2019,R,"['Horror', ' Sci-Fi']",5.8,48,41624,29208403.0,58,90
+The Endless,2017,,"['Drama', ' Fantasy', ' Horror']",6.5,80,31068,272020.0,65,111
+Alien³,1992,R,"['Action', ' Horror', ' Sci-Fi']",6.5,59,272540,55473600.0,65,114
+Mad Max 2,1981,,"['Action', ' Adventure', ' Sci-Fi']",7.6,77,163899,12465371.0,76,96
+Gattaca,1997,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",7.8,64,276330,12339633.0,78,106
+The Last Days of American Crime,2020,,"['Action', ' Crime', ' Drama']",3.6,15,8388,,36,148
+Superman Returns,2006,PG-13,"['Action', ' Sci-Fi']",6.0,72,268548,200081192.0,60,154
+Melancholia,2011,R,"['Drama', ' Sci-Fi']",7.2,80,164888,3029870.0,72,135
+Brazil,1985,R,"['Drama', ' Sci-Fi']",7.9,84,184847,9929135.0,79,132
+Terminator 3: Rise of the Machines,2003,R,"['Action', ' Sci-Fi']",6.3,66,372445,150371112.0,63,109
+Godzilla,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.4,62,370426,200676069.0,64,123
+Treasure Planet,2002,PG,"['Animation', ' Adventure', ' Family']",7.2,60,99899,38176783.0,72,95
+The Cell,2000,R,"['Horror', ' Sci-Fi', ' Thriller']",6.3,40,94084,61334059.0,63,107
+Maze Runner: The Death Cure,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.2,50,107770,58032443.0,62,143
+Wild Wild West,1999,PG-13,"['Action', ' Comedy', ' Sci-Fi']",5.0,38,151239,113805681.0,50,106
+Assassin's Creed,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.7,36,181913,54647948.0,57,115
+Cloverfield,2008,PG-13,"['Horror', ' Sci-Fi', ' Thriller']",7.0,64,368333,80048433.0,70,85
+Teenage Mutant Ninja Turtles,1990,,"['Action', ' Adventure', ' Comedy']",6.8,51,84022,135265915.0,68,93
+Independence Day: Resurgence,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.2,32,164306,103144286.0,52,120
+A.I. Artificial Intelligence,2001,PG-13,"['Drama', ' Sci-Fi']",7.2,65,286891,78616689.0,72,146
+Cocoon,1985,,"['Comedy', ' Drama', ' Sci-Fi']",6.7,65,56437,76113124.0,67,117
+Ender's Game,2013,PG-13,"['Action', ' Adventure', ' Fantasy']",6.6,51,220786,61737191.0,66,114
+Жана Ормекшi-адам: Кернеген куат,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.6,53,410188,202853933.0,66,142
+Transformers: Age of Extinction,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.6,32,295207,245439076.0,56,165
+Nineteen Eighty-Four,1984,,"['Drama', ' Sci-Fi']",7.1,67,65115,8400000.0,71,113
+Atlantis: The Lost Empire,2001,PG,"['Animation', ' Action', ' Adventure']",6.9,52,101841,84052762.0,69,95
+Source Code,2011,PG-13,"['Action', ' Drama', ' Mystery']",7.5,74,477712,54712227.0,75,93
+Lilo & Stitch,2002,PG,"['Animation', ' Adventure', ' Comedy']",7.2,73,164369,145794338.0,72,85
+The Fly,1986,,"['Drama', ' Horror', ' Sci-Fi']",7.6,79,156020,40456565.0,76,96
+Total Recall,2012,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.3,43,237693,58877969.0,63,118
+Escape from New York,1981,,"['Action', ' Adventure', ' Sci-Fi']",7.2,76,123067,25244700.0,72,99
+Deep Blue Sea,1999,R,"['Action', ' Adventure', ' Sci-Fi']",5.9,54,123159,73648142.0,59,105
+Coherence,2013,,"['Drama', ' Mystery', ' Sci-Fi']",7.2,65,104283,68877.0,72,89
+Transformers: Revenge of the Fallen,2009,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.0,35,379921,402111870.0,60,149
+Space Jam,1996,PG,"['Animation', ' Adventure', ' Comedy']",6.4,59,159314,90463534.0,64,88
+Krull,1983,,"['Action', ' Adventure', ' Fantasy']",6.1,45,29841,16519460.0,61,116
+Limitless,2011,PG-13,"['Sci-Fi', ' Thriller']",7.4,59,519980,79249455.0,74,105
+The Adventures of Sharkboy and Lavagirl 3-D,2005,PG,"['Action', ' Adventure', ' Comedy']",3.6,38,31094,39177684.0,36,93
+Mortal Kombat,1995,PG-13,"['Action', ' Adventure', ' Fantasy']",5.8,58,100059,70454098.0,58,101
+The Silence,2019,PG-13,"['Drama', ' Horror', ' Sci-Fi']",5.3,25,35489,,53,90
+Isle of Dogs,2018,PG-13,"['Animation', ' Adventure', ' Comedy']",7.9,82,133534,32015231.0,79,101
+The Chronicles of Riddick,2004,R,"['Action', ' Adventure', ' Sci-Fi']",6.7,38,212405,57761012.0,67,119
+Congo,1995,PG-13,"['Action', ' Adventure', ' Mystery']",5.3,22,41622,81022101.0,53,109
+Cube,1997,R,"['Drama', ' Mystery', ' Sci-Fi']",7.2,61,207731,501818.0,72,90
+The Matrix Revolutions,2003,R,"['Action', ' Sci-Fi']",6.8,47,440438,139313948.0,68,129
+Tomorrowland,2015,PG,"['Action', ' Adventure', ' Family']",6.4,60,169865,93436322.0,64,130
+Dark City,1998,R,"['Mystery', ' Sci-Fi', ' Thriller']",7.6,66,185579,14378331.0,76,100
+Alien: Resurrection,1997,R,"['Action', ' Horror', ' Sci-Fi']",6.2,63,224963,47748610.0,62,109
+Tawiq Eti Az,2005,G,"['Animation', ' Adventure', ' Comedy']",5.7,48,84422,135386665.0,57,81
+Men in Black II,2002,PG-13,"['Action', ' Adventure', ' Comedy']",6.2,49,337910,190418803.0,62,88
+Riddick,2013,R,"['Action', ' Adventure', ' Sci-Fi']",6.4,49,152261,42025135.0,64,119
+Megamind,2010,PG,"['Animation', ' Action', ' Comedy']",7.2,63,223617,148415853.0,72,95
+Planet of the Apes,1968,G,"['Adventure', ' Sci-Fi']",8.0,79,163185,33395426.0,80,112
+Unbreakable,2000,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",7.3,62,380891,95011339.0,73,106
+Pacific Rim: Uprising,2018,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.6,44,103394,59874525.0,56,111
+I Am Number Four,2011,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.1,36,225409,55100437.0,61,111
+Flatliners,2017,PG-13,"['Drama', ' Horror', ' Mystery']",5.2,27,40729,16866403.0,52,109
+Only,2019,,"['Drama', ' Romance', ' Sci-Fi']",5.1,53,2184,,51,98
+Sunshine,2007,R,"['Sci-Fi', ' Thriller']",7.2,64,230190,3675753.0,72,107
+Criminal,2016,R,"['Action', ' Sci-Fi', ' Thriller']",6.3,36,57947,14268533.0,63,113
+9,2009,PG-13,"['Animation', ' Action', ' Adventure']",7.1,60,131484,31743332.0,71,79
+The Arrival,1996,PG-13,"['Sci-Fi', ' Thriller']",6.3,56,31813,14048372.0,63,115
+The Cloverfield Paradox,2018,PG-13,"['Action', ' Adventure', ' Horror']",5.5,37,93061,,55,102
+The Purge: Election Year,2016,R,"['Action', ' Horror', ' Sci-Fi']",6.0,55,88020,79213375.0,60,108
+The Bad Batch,2016,R,"['Drama', ' Horror', ' Romance']",5.3,62,25551,177680.0,53,118
+Paradise Hills,2019,,"['Fantasy', ' Sci-Fi', ' Thriller']",5.6,50,10459,,56,95
+Paul,2011,R,"['Adventure', ' Comedy', ' Sci-Fi']",7.0,57,232027,37412945.0,70,104
+Pitch Black,2000,R,"['Action', ' Horror', ' Sci-Fi']",7.1,49,223040,39240659.0,71,109
+Metropolis,1927,,"['Drama', ' Sci-Fi']",8.3,98,156682,1236166.0,83,153
+Ice Age: Collision Course,2016,PG,"['Animation', ' Adventure', ' Comedy']",5.7,34,55168,64063008.0,57,94
+The Hitchhiker's Guide to the Galaxy,2005,PG,"['Adventure', ' Comedy', ' Sci-Fi']",6.8,63,184634,51085416.0,68,109
+The Purge: Anarchy,2014,R,"['Action', ' Adventure', ' Horror']",6.4,50,134776,71962800.0,64,103
+War for the Planet of the Apes,2017,PG-13,"['Action', ' Adventure', ' Drama']",7.4,82,222912,146880162.0,74,140
+The Rocketeer,1991,,"['Action', ' Adventure', ' Family']",6.5,61,52150,46704056.0,65,108
+Dragonball Evolution,2009,PG,"['Action', ' Adventure', ' Family']",2.5,45,69421,9353573.0,25,85
+Captive State,2019,PG-13,"['Action', ' Adventure', ' Drama']",6.0,54,46258,5958315.0,60,109
+Batoru rowaiaru,2000,,"['Action', ' Adventure', ' Drama']",7.6,81,166782,,76,114
+The Abyss,1989,PG-13,"['Adventure', ' Drama', ' Mystery']",7.6,62,160050,54461047.0,76,171
+Cowboys & Aliens,2011,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.0,50,205226,100240551.0,60,119
+Blade: Trinity,2004,R,"['Action', ' Adventure', ' Fantasy']",5.9,38,163840,52411906.0,59,113
+Night of the Creeps,1986,,"['Comedy', ' Horror', ' Sci-Fi']",6.8,62,20277,591366.0,68,88
+She Dies Tomorrow,2020,R,"['Comedy', ' Drama', ' Mystery']",5.1,80,2252,,51,86
+Extinction,2018,,"['Action', ' Drama', ' Sci-Fi']",5.8,40,44834,,58,95
+Predators,2010,R,"['Action', ' Adventure', ' Sci-Fi']",6.4,51,209088,52000688.0,64,107
+Despicable Me 3,2017,PG,"['Animation', ' Adventure', ' Comedy']",6.3,49,109323,264624300.0,63,89
+Transcendence,2014,PG-13,"['Action', ' Drama', ' Sci-Fi']",6.3,42,214120,23022309.0,63,119
+Future World,2018,R,"['Action', ' Adventure', ' Sci-Fi']",3.2,10,5305,,32,90
+The 5th Wave,2016,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.2,33,97814,34916787.0,52,112
+The Adventures of Buckaroo Banzai Across the 8th Dimension,1984,,"['Adventure', ' Comedy', ' Romance']",6.3,70,23617,6254148.0,63,103
+Land of the Lost,2009,PG-13,"['Action', ' Adventure', ' Comedy']",5.3,32,65003,49438370.0,53,102
+Slither,2006,R,"['Comedy', ' Horror', ' Sci-Fi']",6.4,69,73145,7774730.0,64,95
+Equilibrium,2002,R,"['Action', ' Drama', ' Sci-Fi']",7.4,33,308543,1203974.0,74,107
+Robots,2005,PG,"['Animation', ' Adventure', ' Comedy']",6.3,64,130475,128200012.0,63,91
+Happy Death Day 2U,2019,PG-13,"['Comedy', ' Horror', ' Mystery']",6.2,57,53149,28051045.0,62,100
+The Core,2003,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.5,48,92214,31186896.0,55,135
+Ghosts of Mars,2001,R,"['Action', ' Horror', ' Sci-Fi']",4.9,35,50430,8434601.0,49,98
+Pandorum,2009,R,"['Action', ' Horror', ' Mystery']",6.7,28,142161,10330853.0,67,108
+Lucy in the Sky,2019,R,"['Drama', ' Sci-Fi']",4.8,36,4903,,48,124
+Womb,2010,,"['Drama', ' Romance', ' Sci-Fi']",6.4,48,13242,,64,111
+Spy Kids,2001,PG,"['Action', ' Adventure', ' Comedy']",5.5,71,106626,112719001.0,55,88
+Journey 2: The Mysterious Island,2012,PG,"['Action', ' Adventure', ' Comedy']",5.8,41,91180,103860290.0,58,94
+Maze Runner: The Scorch Trials,2015,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.3,43,216712,81697192.0,63,131
+Scooby-Doo 2: Monsters Unleashed,2004,PG,"['Adventure', ' Comedy', ' Family']",5.1,34,48413,84216833.0,51,93
+Jumper,2008,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.1,35,283402,80172128.0,61,88
+Kôkaku Kidôtai,1995,,"['Animation', ' Action', ' Crime']",8.0,76,125991,515905.0,80,83
+The Fountain,2006,PG-13,"['Drama', ' Mystery', ' Romance']",7.2,51,225577,10144010.0,72,97
+Howard the Duck,1986,,"['Action', ' Adventure', ' Comedy']",4.7,28,42426,16295774.0,47,110
+Rise of the Planet of the Apes,2011,PG-13,"['Action', ' Drama', ' Sci-Fi']",7.6,68,491192,176760185.0,76,105
+Another Earth,2011,PG-13,"['Drama', ' Romance', ' Sci-Fi']",7.0,66,89838,1316074.0,70,92
+Darkman,1990,,"['Action', ' Sci-Fi', ' Thriller']",6.4,65,57559,33878502.0,64,96
+Star Trek II: The Wrath of Khan,1982,PG,"['Action', ' Adventure', ' Sci-Fi']",7.7,67,111013,78912963.0,77,113
+Pixels,2015,PG-13,"['Action', ' Comedy', ' Fantasy']",5.5,27,129299,78747585.0,55,105
+The Running Man,1987,,"['Action', ' Sci-Fi', ' Thriller']",6.7,45,139088,38122105.0,67,101
+Invasion of the Body Snatchers,1978,,"['Horror', ' Sci-Fi']",7.4,75,51213,24946533.0,74,115
+Deja Vu,2006,PG-13,"['Action', ' Crime', ' Sci-Fi']",7.0,59,289232,64038616.0,70,126
+Never Let Me Go,2010,R,"['Drama', ' Romance', ' Sci-Fi']",7.1,69,135644,2434652.0,71,103
+Colossal,2016,R,"['Comedy', ' Drama', ' Fantasy']",6.2,70,57571,3021345.0,62,109
+Mute,2018,,"['Mystery', ' Sci-Fi', ' Thriller']",5.4,35,29776,,54,126
+28 Weeks Later,2007,R,"['Horror', ' Sci-Fi']",7.0,78,255255,28638916.0,70,100
+Proximity,2020,,"['Drama', ' Sci-Fi']",5.6,38,2441,,56,119
+Blade II,2002,R,"['Action', ' Fantasy', ' Horror']",6.7,52,196953,82348319.0,67,117
+Hardcore Henry,2015,R,"['Action', ' Adventure', ' Sci-Fi']",6.7,51,84968,9252038.0,67,96
+Chappie,2015,R,"['Action', ' Crime', ' Drama']",6.8,41,226459,31569268.0,68,120
+Flight of the Navigator,1986,,"['Adventure', ' Comedy', ' Family']",6.9,64,43508,18564613.0,69,90
+The House with a Clock in Its Walls,2018,PG,"['Comedy', ' Family', ' Fantasy']",6.0,57,43384,68549695.0,60,105
+Minions,2015,PG,"['Animation', ' Adventure', ' Comedy']",6.4,56,208301,336045770.0,64,91
+Time Bandits,1981,,"['Adventure', ' Comedy', ' Fantasy']",7.0,79,57318,42365581.0,70,116
+Primer,2004,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",6.9,68,96576,424760.0,69,77
+Zardoz,1974,,"['Adventure', ' Fantasy', ' Sci-Fi']",5.9,46,19082,69000.0,59,105
+Gamer,2009,R,"['Action', ' Sci-Fi', ' Thriller']",5.8,27,128878,20488579.0,58,95
+Real Steel,2011,PG-13,"['Action', ' Drama', ' Sci-Fi']",7.1,56,293640,85468508.0,71,127
+TRON,1982,,"['Action', ' Adventure', ' Sci-Fi']",6.8,58,111734,33000000.0,68,96
+Dark Skies,2013,PG-13,"['Horror', ' Sci-Fi', ' Thriller']",6.3,50,69818,17411930.0,63,97
+The Stepford Wives,2004,PG-13,"['Comedy', ' Horror', ' Sci-Fi']",5.3,42,59917,59484742.0,53,93
+Species,1995,R,"['Action', ' Horror', ' Sci-Fi']",5.8,49,72996,60074103.0,58,108
+Ghostbusters II,1989,,"['Action', ' Comedy', ' Fantasy']",6.6,56,179654,112494738.0,66,108
+Hellboy II: The Golden Army,2008,PG-13,"['Action', ' Adventure', ' Fantasy']",7.0,78,252958,75754670.0,70,120
+Leviathan,1989,,"['Adventure', ' Horror', ' Mystery']",5.8,51,18336,15704614.0,58,98
+The Adjustment Bureau,2011,PG-13,"['Romance', ' Sci-Fi', ' Thriller']",7.0,60,240687,62495645.0,70,106
+The Host,2013,PG-13,"['Action', ' Adventure', ' Drama']",5.9,35,109817,26627201.0,59,125
+Real Genius,1985,,"['Comedy', ' Romance', ' Sci-Fi']",7.0,71,29890,13000000.0,70,108
+Repo Men,2010,R,"['Action', ' Sci-Fi', ' Thriller']",6.3,32,99984,13794835.0,63,111
+Meet the Robinsons,2007,G,"['Animation', ' Adventure', ' Comedy']",6.8,61,85770,97822171.0,68,95
+Logan's Run,1976,,"['Action', ' Adventure', ' Sci-Fi']",6.8,53,50924,25000000.0,68,119
+Chronicle,2012,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",7.0,69,237569,64575175.0,70,89
+Videodrome,1983,,"['Horror', ' Sci-Fi', ' Thriller']",7.2,60,81564,2120439.0,72,87
+Kaze no tani no Naushika,1984,PG,"['Animation', ' Adventure', ' Fantasy']",8.1,86,145753,495770.0,81,117
+Solaris,1972,,"['Drama', ' Mystery', ' Sci-Fi']",8.1,90,78564,,81,167
+The Last Starfighter,1984,,"['Action', ' Adventure', ' Sci-Fi']",6.8,67,37627,28733290.0,68,101
+RoboCop,2014,PG-13,"['Action', ' Crime', ' Sci-Fi']",6.1,52,214056,58607007.0,61,117
+How It Ends,2018,,"['Action', ' Adventure', ' Drama']",5.0,36,43234,,50,113
+Push,2009,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.1,36,104661,31806100.0,61,111
+Downsizing,2017,R,"['Drama', ' Sci-Fi']",5.7,63,95913,24449754.0,57,135
+AVP: Alien vs. Predator,2004,PG-13,"['Action', ' Adventure', ' Horror']",5.6,29,182262,80282231.0,56,101
+The Manchurian Candidate,2004,R,"['Drama', ' Mystery', ' Sci-Fi']",6.6,76,102378,65955630.0,66,129
+Paycheck,2003,PG-13,"['Action', ' Mystery', ' Sci-Fi']",6.3,43,102084,53790451.0,63,119
+Little Monsters,2019,R,"['Comedy', ' Horror', ' Sci-Fi']",6.3,59,11794,,63,93
+My Hero Academia - Boku no hîrô akademia THE MOVIE - Heroes: Rising - Hîrôzu: Raijingu,2019,PG-13,"['Animation', ' Action', ' Adventure']",8.0,70,2450,,80,104
+Dawn of the Planet of the Apes,2014,PG-13,"['Action', ' Adventure', ' Drama']",7.6,79,407308,208545589.0,76,130
+Short Circuit,1986,,"['Comedy', ' Family', ' Sci-Fi']",6.7,50,55912,40697761.0,67,98
+Resident Evil: The Final Chapter,2016,R,"['Action', ' Horror', ' Sci-Fi']",5.5,49,82084,26830068.0,55,107
+Shivers,1975,,"['Horror', ' Sci-Fi']",6.5,58,17365,,65,87
+The Happening,2008,R,"['Drama', ' Mystery', ' Sci-Fi']",5.0,34,193375,64506874.0,50,91
+The Rover,2014,R,"['Action', ' Crime', ' Drama']",6.4,64,44011,1109199.0,64,103
+Mad Max Beyond Thunderdome,1985,,"['Action', ' Adventure', ' Sci-Fi']",6.3,71,125057,36200000.0,63,107
+High-Rise,2015,R,"['Drama', ' Sci-Fi']",5.6,65,37194,343139.0,56,119
+The Saint,1997,PG-13,"['Action', ' Adventure', ' Romance']",6.3,50,61686,61355436.0,63,116
+Tank Girl,1995,R,"['Action', ' Comedy', ' Sci-Fi']",5.4,46,29834,4064333.0,54,104
+The Giver,2014,PG-13,"['Drama', ' Romance', ' Sci-Fi']",6.5,47,110500,45089048.0,65,97
+Despicable Me 2,2013,PG,"['Animation', ' Adventure', ' Comedy']",7.3,62,363926,368061265.0,73,98
+Tenkû no shiro Rapyuta,1986,,"['Animation', ' Adventure', ' Drama']",8.0,78,145892,,80,125
+The Wraith,1986,PG-13,"['Action', ' Horror', ' Romance']",6.0,39,14435,3500000.0,60,93
+Star Trek: The Motion Picture,1979,G,"['Adventure', ' Mystery', ' Sci-Fi']",6.4,48,80102,82258456.0,64,132
+Moonraker,1979,,"['Action', ' Adventure', ' Sci-Fi']",6.3,66,88993,70308099.0,63,126
+The Discovery,2017,,"['Drama', ' Romance', ' Sci-Fi']",6.3,54,28764,,63,102
+Rise of the Guardians,2012,PG,"['Animation', ' Action', ' Adventure']",7.3,58,153744,103412758.0,73,97
+Journey to the Center of the Earth,2008,PG,"['Action', ' Adventure', ' Family']",5.8,57,111647,101704370.0,58,93
+After Earth,2013,PG-13,"['Action', ' Adventure', ' Sci-Fi']",4.8,33,189460,60522097.0,48,100
+Sea Fever,2019,,"['Drama', ' Horror', ' Mystery']",5.7,60,6115,,57,95
+Next,2007,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.2,42,146712,18211013.0,62,96
+Devil's Gate,2017,,"['Horror', ' Sci-Fi', ' Thriller']",5.1,37,4765,,51,94
+A Wrinkle in Time,2018,PG,"['Adventure', ' Family', ' Fantasy']",4.2,53,40078,100478608.0,42,109
+Westworld,1973,,"['Action', ' Sci-Fi', ' Thriller']",7.0,77,51034,16055700.0,70,88
+The Return of the Living Dead,1985,,"['Comedy', ' Horror', ' Sci-Fi']",7.3,66,53396,14237000.0,73,91
+The Iron Giant,1999,PG,"['Animation', ' Action', ' Adventure']",8.0,85,168803,23159305.0,80,86
+Anon,2018,,"['Crime', ' Drama', ' Mystery']",6.1,54,35886,,61,100
+Speed Racer,2008,PG,"['Action', ' Adventure', ' Comedy']",6.0,37,68116,43945766.0,60,135
+Innerspace,1987,,"['Action', ' Adventure', ' Comedy']",6.8,66,53256,25893810.0,68,120
+The Time Traveler's Wife,2009,PG-13,"['Drama', ' Fantasy', ' Romance']",7.1,47,138795,63414846.0,71,107
+The Dead Zone,1983,,"['Drama', ' Horror', ' Sci-Fi']",7.2,69,60301,20766000.0,72,103
+Twilight Zone: The Movie,1983,,"['Horror', ' Sci-Fi']",6.5,44,32466,29500000.0,65,101
+Star Trek: Nemesis,2002,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.4,51,72762,43254409.0,64,116
+[Rec],2007,R,"['Action', ' Adventure', ' Fantasy']",7.4,69,162672,,74,78
+Monsters vs. Aliens,2009,PG,"['Animation', ' Action', ' Adventure']",6.4,56,144543,198351526.0,64,94
+The Specials,2000,R,"['Action', ' Comedy', ' Fantasy']",5.8,38,2172,12996.0,58,82
+Resident Evil: Apocalypse,2004,R,"['Action', ' Horror', ' Sci-Fi']",6.2,35,183657,51201453.0,62,94
+Re-Animator,1985,,"['Comedy', ' Horror', ' Sci-Fi']",7.2,73,54919,2023414.0,72,104
+Light of My Life,2019,R,"['Drama', ' Sci-Fi', ' Thriller']",6.6,67,9496,,66,119
+The Watch,2012,R,"['Comedy', ' Sci-Fi']",5.7,36,119959,35353000.0,57,102
+Rabid,2019,,"['Horror', ' Sci-Fi']",5.1,43,3409,,51,107
+Tau,2018,R,"['Sci-Fi', ' Thriller']",5.8,43,25686,,58,97
+I Origins,2014,R,"['Drama', ' Romance', ' Sci-Fi']",7.4,57,113262,334658.0,74,106
+Self/less,2015,PG-13,"['Action', ' Mystery', ' Sci-Fi']",6.5,34,87984,12276810.0,65,117
+Godzilla,1998,PG-13,"['Action', ' Sci-Fi', ' Thriller']",5.4,32,180019,136314294.0,54,139
+The Void,2016,,"['Horror', ' Mystery', ' Sci-Fi']",5.8,62,29788,150372.0,58,90
+The Postman,1997,R,"['Action', ' Adventure', ' Drama']",6.1,29,67856,17626234.0,61,177
+Universal Soldier,1992,R,"['Action', ' Sci-Fi']",6.0,35,81520,36299898.0,60,102
+Cloudy with a Chance of Meatballs,2009,PG,"['Animation', ' Adventure', ' Comedy']",6.9,66,200746,124870275.0,69,90
+If I Stay,2014,PG-13,"['Drama', ' Fantasy', ' Music']",6.7,46,114103,50474843.0,67,107
+Star Trek: First Contact,1996,PG-13,"['Action', ' Adventure', ' Drama']",7.6,71,116307,92001027.0,76,111
+Killer Klowns from Outer Space,1988,,"['Comedy', ' Horror', ' Sci-Fi']",6.2,43,32241,15625095.0,62,88
+Soylent Green,1973,,"['Crime', ' Mystery', ' Sci-Fi']",7.1,66,56204,,71,97
+Threads,ovie,,"['Drama', ' Sci-Fi', ' War']",8.0,92,11674,,80,112
+Battle: Los Angeles,2011,PG-13,"['Action', ' Sci-Fi']",5.7,37,172805,83552429.0,57,116
+Volcano,1997,PG-13,"['Action', ' Drama', ' Sci-Fi']",5.5,55,71079,49323468.0,55,104
+Death Race,2008,R,"['Action', ' Sci-Fi', ' Thriller']",6.4,43,195755,36316032.0,64,105
+Frequency,2000,PG-13,"['Crime', ' Drama', ' Mystery']",7.3,67,99679,45010278.0,73,118
+Resident Evil: Retribution,2012,R,"['Action', ' Horror', ' Sci-Fi']",5.4,39,131049,42345531.0,54,95
+AVPR: Aliens vs Predator - Requiem,2007,R,"['Action', ' Adventure', ' Fantasy']",4.7,29,114515,41797066.0,47,94
+Predator 2,1990,R,"['Action', ' Horror', ' Sci-Fi']",6.3,46,143972,30669413.0,63,108
+Lost in Space,1998,PG-13,"['Action', ' Adventure', ' Family']",5.2,42,68758,69117629.0,52,130
+Starfish,2018,,"['Drama', ' Sci-Fi']",5.3,74,2400,8147.0,53,101
+Spring,2014,,"['Horror', ' Romance', ' Sci-Fi']",6.7,70,23635,48949.0,67,109
+Attack the Block,2011,R,"['Action', ' Adventure', ' Comedy']",6.6,75,98427,1024175.0,66,88
+Mystery Men,1999,PG-13,"['Action', ' Comedy', ' Fantasy']",6.1,65,61204,29655590.0,61,121
+Repo! The Genetic Opera,2008,R,"['Horror', ' Musical', ' Sci-Fi']",6.6,32,23310,140244.0,66,98
+Æon Flux,2005,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.5,36,123077,25857987.0,55,93
+The Girl with All the Gifts,2016,R,"['Action', ' Adventure', ' Drama']",6.6,67,53223,,66,111
+King Kong,1933,,"['Adventure', ' Horror', ' Sci-Fi']",7.9,90,77648,10000000.0,79,100
+Lifeforce,1985,,"['Action', ' Horror', ' Mystery']",6.2,50,21922,11603545.0,62,101
+Morgan,2016,R,"['Action', ' Horror', ' Sci-Fi']",5.8,48,38475,3912052.0,58,92
+Strange Days,1995,R,"['Action', ' Crime', ' Drama']",7.2,66,66157,7919000.0,72,145
+Victor Frankenstein,2015,PG-13,"['Drama', ' Horror', ' Sci-Fi']",6.0,36,51359,5775076.0,60,110
+Race to Witch Mountain,2009,PG,"['Action', ' Adventure', ' Family']",5.7,52,54863,67172594.0,57,98
+Timeline,2003,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.7,28,59700,19481943.0,57,116
+Cherry 2000,1987,,"['Action', ' Adventure', ' Comedy']",5.6,59,8769,,56,99
+Star Trek VI: The Undiscovered Country,1991,PG,"['Action', ' Adventure', ' Sci-Fi']",7.2,65,69195,74888996.0,72,110
+Evolution,2001,PG-13,"['Comedy', ' Sci-Fi']",6.1,40,118240,38345494.0,61,101
+The Time Machine,2002,PG-13,"['Action', ' Adventure', ' Sci-Fi']",6.0,42,117354,56684819.0,60,96
+"Dude, Where's My Car?",2000,PG-13,"['Comedy', ' Mystery', ' Sci-Fi']",5.5,30,133144,46729800.0,55,83
+Prospect,2018,R,"['Drama', ' Sci-Fi', ' Thriller']",6.2,68,17677,,62,100
+Superman II,1980,PG,"['Action', ' Adventure', ' Sci-Fi']",6.8,83,96658,108185706.0,68,127
+Outlander,2008,R,"['Action', ' Adventure', ' Sci-Fi']",6.2,40,71203,160641.0,62,115
+Star Trek IV: The Voyage Home,1986,PG,"['Adventure', ' Comedy', ' Sci-Fi']",7.3,71,77416,109713132.0,73,119
+Zapped!,1982,,"['Comedy', ' Fantasy', ' Sci-Fi']",5.0,10,6204,16897768.0,50,98
+Red Planet,2000,PG-13,"['Action', ' Sci-Fi', ' Thriller']",5.7,34,54832,18000000.0,57,106
+Halloween III: Season of the Witch,1982,,"['Horror', ' Mystery', ' Sci-Fi']",4.9,50,42118,14400000.0,49,98
+Cyborg,1989,,"['Action', ' Sci-Fi', ' Thriller']",5.1,24,28609,10166459.0,51,86
+The One I Love,2014,R,"['Comedy', ' Drama', ' Romance']",7.1,66,34622,511635.0,71,91
+Stay Alive,2006,PG-13,"['Fantasy', ' Horror', ' Mystery']",5.1,24,30034,23086480.0,51,85
+Battlefield Earth,2000,PG-13,"['Action', ' Adventure', ' Sci-Fi']",2.5,9,75317,21471685.0,25,118
+Frankenweenie,2012,PG,"['Animation', ' Comedy', ' Family']",6.9,74,95749,35291068.0,69,87
+Lockout,2012,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.1,48,93574,14326864.0,61,95
+Scanners,1981,,"['Horror', ' Sci-Fi', ' Thriller']",6.8,60,46945,14225876.0,68,103
+Heavy Metal,1981,,"['Animation', ' Adventure', ' Fantasy']",6.7,51,30980,,67,86
+Papurika,2006,R,"['Animation', ' Drama', ' Fantasy']",7.7,81,68930,881302.0,77,90
+Daybreakers,2009,R,"['Action', ' Adventure', ' Fantasy']",6.4,57,121082,30101577.0,64,98
+Spy Kids 3: Game Over,2003,PG,"['Action', ' Adventure', ' Comedy']",4.3,57,53906,111761982.0,43,84
+Supergirl,1984,,"['Action', ' Adventure', ' Fantasy']",4.4,42,18341,13600000.0,44,124
+Fire in the Sky,1993,PG-13,"['Biography', ' Drama', ' Fantasy']",6.6,42,21131,20100000.0,66,109
+IO,2019,,"['Adventure', ' Drama', ' Sci-Fi']",4.7,40,30008,,47,96
+The Avengers,1998,PG-13,"['Action', ' Adventure', ' Sci-Fi']",3.8,12,40450,23322832.0,38,89
+Resident Evil: Afterlife,2010,R,"['Action', ' Adventure', ' Horror']",5.8,37,160042,60128566.0,58,96
+Frankenstein,1931,,"['Drama', ' Horror', ' Romance']",7.8,91,63523,,78,70
+Pi,1998,R,"['Drama', ' Horror', ' Mystery']",7.4,72,167908,3216970.0,74,84
+Thunderbirds,2004,PG,"['Action', ' Adventure', ' Comedy']",4.3,36,12988,6768055.0,43,95
+Home,2015,PG,"['Animation', ' Adventure', ' Comedy']",6.6,55,90478,177397510.0,66,94
+Barb Wire,1996,R,"['Action', ' Sci-Fi']",3.3,40,24757,3794000.0,33,98
+Mighty Morphin Power Rangers: The Movie,1995,PG,"['Action', ' Adventure', ' Family']",5.2,40,24896,38187431.0,52,95
+Superman III,1983,,"['Action', ' Adventure', ' Comedy']",5.0,44,63330,59950623.0,50,125
+Flatliners,1990,,"['Drama', ' Horror', ' Sci-Fi']",6.6,55,78881,61490000.0,66,115
+Liu lang di qiu,2019,,"['Action', ' Sci-Fi']",6.0,57,25568,5875487.0,60,125
+Doomsday,2008,R,"['Action', ' Sci-Fi', ' Thriller']",6.0,51,71514,10955425.0,60,113
+A Scanner Darkly,2006,R,"['Animation', ' Crime', ' Drama']",7.1,73,105284,5501616.0,71,100
+Bicentennial Man,1999,PG,"['Comedy', ' Drama', ' Sci-Fi']",6.9,42,108613,58220776.0,69,132
+The Lawnmower Man,1992,R,"['Horror', ' Sci-Fi']",5.5,42,33451,32101000.0,55,108
+Land of the Dead,2005,R,"['Horror', ' Sci-Fi', ' Thriller']",6.2,71,90730,20700082.0,62,93
+The Blob,1958,,"['Horror', ' Sci-Fi']",6.4,58,22572,,64,86
+eXistenZ,1999,R,"['Horror', ' Sci-Fi', ' Thriller']",6.8,68,92422,2840417.0,68,97
+RoboCop 2,1990,,"['Action', ' Crime', ' Sci-Fi']",5.8,42,80065,45681173.0,58,117
+Star Trek III: The Search for Spock,1984,,"['Action', ' Adventure', ' Sci-Fi']",6.7,56,73479,76471046.0,67,105
+Critters,1986,,"['Comedy', ' Horror', ' Sci-Fi']",6.1,52,30526,13167232.0,61,86
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,,"['Action', ' Adventure', ' Comedy']",6.1,45,50849,78656813.0,61,88
+The Signal,2014,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.1,54,61710,600896.0,61,97
+"Honey, I Blew Up the Kid",1992,PG,"['Adventure', ' Comedy', ' Family']",4.9,50,40526,58662452.0,49,89
+Cabin Fever,2016,R,"['Horror', ' Sci-Fi', ' Thriller']",3.7,14,8946,,37,99
+Resident Evil: Extinction,2007,R,"['Action', ' Horror', ' Sci-Fi']",6.3,41,181120,50648679.0,63,94
+Bad Taste,1987,,"['Comedy', ' Horror', ' Sci-Fi']",6.6,52,43380,,66,91
+Star Trek: Generations,1994,PG,"['Action', ' Adventure', ' Mystery']",6.6,55,75121,75668868.0,66,118
+The Black Hole,1979,,"['Action', ' Sci-Fi']",6.0,52,22973,,60,98
+The Secret of NIMH,1982,,"['Animation', ' Adventure', ' Drama']",7.6,76,35590,10140325.0,76,82
+Absolutely Anything,2015,R,"['Comedy', ' Sci-Fi']",6.0,31,38833,,60,85
+Monster Trucks,2016,PG,"['Action', ' Adventure', ' Comedy']",5.6,41,15043,33370166.0,56,104
+Clara,2018,,['Sci-Fi'],6.7,43,3025,,67,105
+The Darkest Minds,2018,PG-13,"['Action', ' Adventure', ' Drama']",5.7,39,27316,12695691.0,57,104
+The Time Machine,1960,,"['Adventure', ' Romance', ' Sci-Fi']",7.6,67,35531,,76,103
+The Space Between Us,2017,PG-13,"['Drama', ' Romance', ' Sci-Fi']",6.4,33,46940,7885294.0,64,120
+Mortal Kombat: Annihilation,1997,PG-13,"['Action', ' Adventure', ' Fantasy']",3.7,11,45977,35927406.0,37,95
+2010: The Year We Make Contact,1984,,"['Adventure', ' Mystery', ' Sci-Fi']",6.8,53,48942,40200000.0,68,116
+Altered States,1980,,"['Horror', ' Sci-Fi', ' Thriller']",6.9,58,31457,19853892.0,69,102
+Mr. Peabody & Sherman,2014,PG,"['Animation', ' Adventure', ' Comedy']",6.8,59,61210,111506430.0,68,92
+Explorers,1985,PG,"['Adventure', ' Comedy', ' Family']",6.6,58,19462,9873044.0,66,109
+Left Behind,2014,PG-13,"['Action', ' Fantasy', ' Sci-Fi']",3.1,12,36439,13998282.0,31,110
+Jason X,2001,R,"['Action', ' Horror', ' Sci-Fi']",4.4,25,49529,13121555.0,44,91
+The Titan,2018,,"['Drama', ' Mystery', ' Romance']",4.8,33,27013,,48,97
+Dreamcatcher,2003,R,"['Drama', ' Horror', ' Sci-Fi']",5.5,35,87827,33715436.0,55,136
+The Relic,1997,R,"['Horror', ' Mystery', ' Sci-Fi']",5.8,55,24361,33956608.0,58,110
+Repo Man,1984,,"['Action', ' Comedy', ' Crime']",6.9,82,33230,3569083.0,69,92
+Escape from L.A.,1996,R,"['Action', ' Adventure', ' Sci-Fi']",5.8,54,68614,25477365.0,58,101
+SpaceCamp,1986,,"['Adventure', ' Family', ' Sci-Fi']",5.7,40,12858,9697739.0,57,107
+Phantasm,1979,R,"['Horror', ' Sci-Fi']",6.8,72,31452,11988469.0,68,89
+"20,000 Leagues Under the Sea",1954,,"['Adventure', ' Drama', ' Family']",7.2,83,28711,28200000.0,72,127
+The Nutty Professor,1996,PG-13,"['Comedy', ' Romance', ' Sci-Fi']",5.6,62,108114,128814019.0,56,95
+Blast from the Past,1999,PG-13,"['Comedy', ' Drama', ' Romance']",6.6,48,58659,26494611.0,66,112
+Star Trek: Insurrection,1998,PG,"['Action', ' Adventure', ' Sci-Fi']",6.4,64,69512,70117571.0,64,103
+Ultraviolet,2006,PG-13,"['Action', ' Sci-Fi']",4.4,18,78858,18500966.0,44,88
+Z for Zachariah,2015,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",6.0,68,27698,118483.0,60,98
+How to Talk to Girls at Parties,2017,R,"['Comedy', ' Music', ' Romance']",5.7,50,9358,84809.0,57,102
+The Fourth Kind,2009,PG-13,"['Horror', ' Mystery', ' Sci-Fi']",5.9,34,72935,25464480.0,59,98
+Perfect Sense,2011,R,"['Drama', ' Romance', ' Sci-Fi']",7.1,55,55148,2959.0,71,92
+Penguins of Madagascar,2014,PG,"['Animation', ' Adventure', ' Comedy']",6.7,53,77562,83348920.0,67,92
+Maximum Overdrive,1986,,"['Action', ' Comedy', ' Horror']",5.5,24,29376,7433663.0,55,98
+Osmosis Jones,2001,PG,"['Animation', ' Action', ' Adventure']",6.3,57,31890,13596911.0,63,95
+Ji qi zhi xue,2017,R,"['Action', ' Adventure', ' Sci-Fi']",5.2,43,8146,,52,109
+Elizabeth Harvest,2018,R,"['Horror', ' Sci-Fi', ' Thriller']",5.8,54,6343,,58,105
+The SpongeBob Movie: Sponge Out of Water,2015,PG,"['Animation', ' Action', ' Adventure']",6.0,62,47700,162994032.0,60,92
+The Man Who Fell to Earth,1976,,"['Drama', ' Sci-Fi']",6.7,81,23634,100072.0,67,139
+Inspector Gadget,1999,PG,"['Action', ' Adventure', ' Comedy']",4.1,36,44745,97403112.0,41,78
+Southland Tales,2006,R,"['Comedy', ' Drama', ' Mystery']",5.4,44,36817,275380.0,54,145
+The Flintstones in Viva Rock Vegas,2000,PG,"['Comedy', ' Family', ' Romance']",3.6,27,21290,35268275.0,36,90
+The Man Who Killed Hitler and Then the Bigfoot,2018,,"['Adventure', ' Drama', ' Sci-Fi']",5.7,51,9664,,57,98
+Chopping Mall,1986,,"['Comedy', ' Horror', ' Sci-Fi']",5.6,22,11575,,56,77
+The Darkest Hour,2011,PG-13,"['Action', ' Adventure', ' Horror']",4.9,18,57278,21426805.0,49,89
+Turbo,2013,PG,"['Animation', ' Adventure', ' Comedy']",6.4,58,81947,83028128.0,64,96
+Surrogates,2009,PG-13,"['Action', ' Sci-Fi', ' Thriller']",6.3,45,167500,38577772.0,63,89
+How I Live Now,2013,R,"['Romance', ' Sci-Fi', ' Thriller']",6.5,57,27796,60213.0,65,101
+Our House,2018,PG-13,"['Drama', ' Horror', ' Mystery']",5.3,45,6442,,53,90
+Superman IV: The Quest for Peace,1987,,"['Action', ' Adventure', ' Sci-Fi']",3.7,24,42262,15681020.0,37,90
+Creature from the Black Lagoon,1954,,"['Horror', ' Sci-Fi']",7.0,68,25755,1300000.0,70,79
+The Cave,2005,PG-13,"['Action', ' Adventure', ' Horror']",5.1,30,34909,15007991.0,51,97
+Solaris,2002,PG-13,"['Drama', ' Mystery', ' Romance']",6.2,65,78236,14973382.0,62,99
+Galaxy of Terror,1981,,"['Action', ' Adventure', ' Horror']",5.1,38,6600,,51,81
+The 6th Day,2000,PG-13,"['Action', ' Mystery', ' Sci-Fi']",5.9,49,115270,34604280.0,59,123
+Equals,2015,PG-13,"['Drama', ' Romance', ' Sci-Fi']",6.1,43,26967,32095.0,61,101
+Starman,1984,,"['Romance', ' Sci-Fi']",7.0,70,41840,28700000.0,70,115
+The Zero Theorem,2013,R,"['Comedy', ' Drama', ' Fantasy']",6.1,50,44778,219438.0,61,107
+The Stepford Wives,1975,,"['Horror', ' Mystery', ' Sci-Fi']",6.9,54,15973,8720000.0,69,115
+Mimic,1997,R,"['Horror', ' Sci-Fi']",6.0,55,45325,25480490.0,60,105
+Autómata,2014,R,"['Action', ' Drama', ' Sci-Fi']",6.1,37,53692,,61,109
+Doragon bôru chô: Burorî,2018,PG,"['Animation', ' Action', ' Adventure']",7.9,59,21504,30712119.0,79,100
+Trolljegeren,2010,PG-13,"['Drama', ' Fantasy', ' Horror']",7.0,61,67703,252652.0,70,103
+Superhero Movie,2008,PG-13,"['Action', ' Comedy', ' Sci-Fi']",4.5,33,62846,26638520.0,45,75
+Death Race 2000,1975,,"['Action', ' Comedy', ' Sci-Fi']",6.2,59,24181,8000000.0,62,80
+Timecop,1994,R,"['Action', ' Crime', ' Sci-Fi']",5.9,48,54817,44853581.0,59,99
+Eight Legged Freaks,2002,PG-13,"['Action', ' Adventure', ' Comedy']",5.4,53,52064,17322606.0,54,99
+Mission to Mars,2000,PG,"['Adventure', ' Sci-Fi', ' Thriller']",5.7,34,69653,60883407.0,57,114
+The Thirteenth Floor,1999,R,"['Mystery', ' Sci-Fi', ' Thriller']",7.1,36,65900,15500000.0,71,100
+Flubber,1997,PG,"['Comedy', ' Family', ' Sci-Fi']",5.3,37,83234,92977226.0,53,93
+Beyond Skyline,2017,R,"['Action', ' Adventure', ' Sci-Fi']",5.3,46,17865,,53,106
+Zoe,2018,R,"['Romance', ' Sci-Fi']",6.1,39,7224,,61,104
+The Boys from Brazil,1978,,"['Drama', ' Mystery', ' Sci-Fi']",7.0,40,25138,19000000.0,70,125
+Hot Tub Time Machine 2,2015,R,"['Comedy', ' Mystery', ' Sci-Fi']",5.1,29,36415,12282677.0,51,93
+Shin Gojira,2016,,"['Action', ' Adventure', ' Drama']",6.7,67,21473,1908028.0,67,120
+Cloudy with a Chance of Meatballs 2,2013,PG,"['Animation', ' Adventure', ' Comedy']",6.4,59,88398,119793567.0,64,95
+Star Wars: The Clone Wars,2008,PG,"['Animation', ' Action', ' Adventure']",5.9,35,55853,35161554.0,59,98
+The Curse of the Were-Rabbit,2005,,"['Animation', ' Adventure', ' Comedy']",7.4,87,123404,56110897.0,74,85
+Kin,2018,PG-13,"['Action', ' Adventure', ' Crime']",5.8,35,13399,5718096.0,58,102
+Seeking a Friend for the End of the World,2012,R,"['Adventure', ' Comedy', ' Drama']",6.7,59,106428,6619173.0,67,101
+Europa Report,2013,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.4,68,66519,125687.0,64,97
+"I, Frankenstein",2014,PG-13,"['Action', ' Fantasy', ' Sci-Fi']",5.1,30,77573,19075290.0,51,92
+The Jacket,2005,R,"['Drama', ' Fantasy', ' Mystery']",7.1,44,107459,6303762.0,71,103
+Enemy Mine,1985,,"['Action', ' Adventure', ' Drama']",6.9,59,42858,4271684.0,69,108
+Teenage Mutant Ninja Turtles III,1993,PG,"['Action', ' Adventure', ' Comedy']",4.8,40,30523,42660000.0,48,96
+Los cronocrímenes,2007,R,"['Horror', ' Mystery', ' Sci-Fi']",7.2,68,56935,38108.0,72,92
+Project Almanac,2015,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.4,47,75102,22348241.0,64,106
+R.I.P.D.,2013,PG-13,"['Action', ' Adventure', ' Comedy']",5.6,25,116110,33618855.0,56,96
+Star Trek V: The Final Frontier,1989,,"['Action', ' Adventure', ' Fantasy']",5.5,43,55190,52210049.0,55,107
+Spy Kids 4: All the Time in the World,2011,PG,"['Action', ' Adventure', ' Comedy']",3.5,37,22252,38538188.0,35,89
+The X Files,1998,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",7.0,60,99804,83898313.0,70,121
+The Fly II,1989,,"['Drama', ' Horror', ' Sci-Fi']",5.1,36,20981,20021322.0,51,105
+Zoom,2006,PG,"['Action', ' Adventure', ' Comedy']",4.4,26,18654,11631245.0,44,93
+The War of the Worlds,1953,,"['Action', ' Sci-Fi', ' Thriller']",7.1,78,32171,4360000.0,71,85
+Airplane II: The Sequel,1982,,"['Comedy', ' Sci-Fi']",6.2,48,48189,27150534.0,62,85
+The Andromeda Strain,1971,,"['Mystery', ' Sci-Fi', ' Thriller']",7.2,60,33090,3421790.0,72,131
+Apollo 18,2011,PG-13,"['Horror', ' Mystery', ' Sci-Fi']",5.2,24,53324,17686929.0,52,86
+Spy Kids 2: Island of Lost Dreams,2002,PG,"['Action', ' Adventure', ' Comedy']",5.2,66,59447,85846429.0,52,100
+Titan A.E.,2000,PG,"['Animation', ' Action', ' Adventure']",6.6,48,58131,22751979.0,66,94
+A-X-L,2018,PG,"['Action', ' Adventure', ' Family']",5.3,29,10004,6501381.0,53,100
+Max Steel,2016,PG-13,"['Action', ' Adventure', ' Fantasy']",4.6,22,17940,3818664.0,46,92
+Aliens in the Attic,2009,PG,"['Adventure', ' Comedy', ' Family']",5.4,42,20491,25200412.0,54,86
+Sky Captain and the World of Tomorrow,2004,PG,"['Action', ' Adventure', ' Mystery']",6.0,64,80981,37760080.0,60,106
+Bubble Boy,2001,PG-13,"['Adventure', ' Comedy', ' Romance']",5.6,41,29784,5002310.0,56,84
+2046,2004,R,"['Drama', ' Romance', ' Sci-Fi']",7.4,78,49914,1444588.0,74,129
+Anna,2013,R,"['Drama', ' Mystery', ' Sci-Fi']",6.5,42,21219,4288.0,65,99
+Monsters,2010,R,"['Adventure', ' Drama', ' Romance']",6.4,63,86838,237301.0,64,94
+RoboCop 3,1993,PG-13,"['Action', ' Crime', ' Sci-Fi']",4.1,40,45222,10696210.0,41,104
+Beyond the Black Rainbow,2010,R,"['Horror', ' Sci-Fi', ' Thriller']",6.1,49,12587,56129.0,61,110
+Sphere,1998,PG-13,"['Action', ' Mystery', ' Sci-Fi']",6.1,35,98085,37020277.0,61,134
+THX 1138,1971,R,"['Drama', ' Sci-Fi', ' Thriller']",6.7,75,47207,2437000.0,67,86
+Outland,1981,,"['Action', ' Crime', ' Sci-Fi']",6.6,48,26553,17374595.0,66,109
+La cité des enfants perdus,1995,R,"['Fantasy', ' Sci-Fi']",7.5,73,64012,1513028.0,75,112
+Brainstorm,1983,,"['Sci-Fi', ' Thriller']",6.5,57,10726,8900000.0,65,106
+Iceman,1984,,"['Drama', ' Sci-Fi']",6.1,62,5128,7343032.0,61,100
+I Think We're Alone Now,2018,R,"['Drama', ' Mystery', ' Sci-Fi']",5.7,51,7383,,57,99
+Bride of Frankenstein,1935,,"['Drama', ' Horror', ' Sci-Fi']",7.8,95,42326,4360000.0,78,75
+Night of the Comet,1984,,"['Comedy', ' Horror', ' Sci-Fi']",6.4,59,18041,14418922.0,64,95
+Gamgi,2013,,"['Action', ' Drama', ' Sci-Fi']",6.7,40,10584,,67,122
+Upstream Color,2013,,"['Drama', ' Sci-Fi']",6.7,81,31015,444098.0,67,96
+The Divide,2011,R,"['Drama', ' Horror', ' Sci-Fi']",5.8,28,34987,22000.0,58,112
+Swamp Thing,1982,,"['Horror', ' Sci-Fi']",5.4,50,12795,,54,91
+The Brood,1979,,"['Horror', ' Sci-Fi']",6.9,63,24804,,69,92
+Virtuosity,1995,R,"['Action', ' Crime', ' Sci-Fi']",5.6,39,27528,24048000.0,56,106
+The Lazarus Effect,2015,PG-13,"['Horror', ' Mystery', ' Sci-Fi']",5.2,31,40461,25799043.0,52,83
+Teen Titans Go! To the Movies,2018,PG,"['Animation', ' Action', ' Adventure']",6.8,69,15907,29562341.0,68,84
+I Still See You,2018,PG-13,"['Fantasy', ' Horror', ' Sci-Fi']",5.8,31,7976,,58,98
+TMNT,2007,PG,"['Animation', ' Action', ' Adventure']",6.2,41,60691,54149098.0,62,87
+The Final Cut,2004,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",6.2,43,31023,548039.0,62,95
+The Toxic Avenger,1984,,"['Action', ' Comedy', ' Horror']",6.3,42,24695,,63,82
+Zombie Strippers!,2008,R,"['Comedy', ' Horror', ' Sci-Fi']",4.1,45,17497,,41,94
+City of Ember,2008,PG,"['Adventure', ' Family', ' Fantasy']",6.5,58,62178,7873007.0,65,90
+Nowhere,1997,R,"['Comedy', ' Drama', ' Sci-Fi']",6.5,44,8112,27354.0,65,82
+Stealth,2005,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.1,35,51420,32116746.0,51,121
+Jem and the Holograms,2015,PG,"['Adventure', ' Drama', ' Family']",4.1,42,7239,2184640.0,41,118
+Cooties,2014,R,"['Action', ' Comedy', ' Horror']",5.7,49,22493,55749.0,57,88
+Aniara,2018,R,"['Drama', ' Sci-Fi']",6.2,61,5335,40124.0,62,106
+Fast Color,2018,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",6.0,64,4174,76916.0,60,100
+The Omega Man,1971,,"['Action', ' Drama', ' Sci-Fi']",6.5,56,28481,8720000.0,65,98
+Looney Tunes: Back in Action,2003,PG,"['Animation', ' Adventure', ' Comedy']",5.7,64,32535,20991364.0,57,93
+Firestarter,1984,,"['Action', ' Horror', ' Sci-Fi']",6.1,50,28804,15100000.0,61,114
+Silent Running,1972,,"['Drama', ' Sci-Fi']",6.7,67,26213,689707.0,67,89
+C.H.U.D.,1984,,"['Horror', ' Sci-Fi']",5.6,57,10498,4654423.0,56,88
+The Box,2009,PG-13,"['Drama', ' Fantasy', ' Mystery']",5.6,47,88104,15045676.0,56,115
+Hagane no renkinjutsushi,2017,,"['Action', ' Adventure', ' Fantasy']",5.2,48,18445,,52,135
+Humanoids from the Deep,1980,,"['Horror', ' Sci-Fi']",5.7,49,7488,,57,80
+Time After Time,1979,,"['Adventure', ' Drama', ' Sci-Fi']",7.1,69,15025,,71,112
+Bats,1999,PG-13,"['Horror', ' Sci-Fi', ' Thriller']",3.9,23,9459,10155690.0,39,91
+Little Joe,2019,,"['Drama', ' Horror', ' Mystery']",5.9,60,4897,,59,105
+Escape to Witch Mountain,1975,,"['Adventure', ' Family', ' Fantasy']",6.4,60,9098,20000000.0,64,97
+Level 16,2018,,"['Drama', ' Sci-Fi', ' Thriller']",6.0,46,5176,,60,102
+The Double,2013,R,"['Comedy', ' Drama', ' Mystery']",6.5,68,46663,200268.0,65,93
+Clown,2014,R,"['Drama', ' Fantasy', ' Horror']",5.7,42,21488,55007.0,57,100
+The One,2001,PG-13,"['Action', ' Sci-Fi', ' Thriller']",5.9,25,87852,43905746.0,59,87
+The Invasion,2007,PG-13,"['Sci-Fi', ' Thriller']",5.9,45,73867,15071514.0,59,99
+Splinter,2008,R,"['Horror', ' Sci-Fi', ' Thriller']",6.1,58,32769,,61,82
+The Ice Pirates,1984,,"['Action', ' Adventure', ' Comedy']",5.7,44,9724,14255801.0,57,91
+*batteries not included,1987,,"['Comedy', ' Family', ' Fantasy']",6.7,54,30888,32945797.0,67,106
+Slaughterhouse-Five,1972,,"['Comedy', ' Drama', ' Sci-Fi']",6.9,66,11976,569618.0,69,104
+Piranha,1978,,"['Comedy', ' Horror', ' Sci-Fi']",5.9,71,18580,6000000.0,59,94
+Dark Star,1974,,"['Comedy', ' Sci-Fi']",6.3,66,21826,,63,83
+K-PAX,2001,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",7.4,49,173455,50338485.0,74,120
+Antiviral,2012,,"['Horror', ' Mystery', ' Sci-Fi']",5.7,55,11837,,57,108
+What the #$*! Do We (K)now!?,2004,,"['Documentary', ' Comedy', ' Drama']",5.3,38,13136,10941801.0,53,109
+After the Dark,2013,R,"['Drama', ' Fantasy', ' Sci-Fi']",5.7,37,21020,,57,107
+Village of the Damned,1995,R,"['Horror', ' Sci-Fi', ' Thriller']",5.7,41,28237,9417567.0,57,98
+DeepStar Six,1989,,"['Action', ' Horror', ' Sci-Fi']",5.4,34,10210,8143225.0,54,99
+Upside Down,2012,PG-13,"['Drama', ' Fantasy', ' Romance']",6.4,45,68747,102118.0,64,109
+The Tuxedo,2002,PG-13,"['Action', ' Comedy', ' Sci-Fi']",5.4,30,78219,50547998.0,54,98
+iBoy,2017,,"['Action', ' Crime', ' Sci-Fi']",6.0,50,19646,,60,90
+Trancers,1984,,"['Action', ' Sci-Fi']",6.0,64,5373,,60,76
+Cell,2016,R,"['Action', ' Drama', ' Horror']",4.3,38,24710,,43,98
+The Rage: Carrie 2,1999,R,"['Horror', ' Sci-Fi', ' Thriller']",4.7,42,15339,17762705.0,47,104
+Turbo Kid,2015,,"['Action', ' Adventure', ' Comedy']",6.7,60,25851,50000.0,67,93
+Rollerball,1975,,"['Action', ' Sci-Fi', ' Sport']",6.6,56,22044,30000000.0,66,125
+Occupation,2018,R,"['Action', ' Drama', ' Sci-Fi']",5.0,45,10981,,50,119
+The Last Days on Mars,2013,R,"['Adventure', ' Horror', ' Sci-Fi']",5.5,46,34738,23838.0,55,98
+The Philadelphia Experiment,1984,,"['Adventure', ' Drama', ' Romance']",6.1,44,13893,8103330.0,61,102
+Amazon Women on the Moon,1987,,"['Comedy', ' Sci-Fi']",6.2,42,9839,548696.0,62,85
+Skyline,2010,PG-13,"['Action', ' Sci-Fi', ' Thriller']",4.4,26,85761,21371425.0,44,92
+La región salvaje,2016,,"['Drama', ' Horror', ' Mystery']",6.2,72,4465,27593.0,62,98
+Blindness,2008,R,"['Drama', ' Mystery', ' Sci-Fi']",6.6,45,69518,3073392.0,66,121
+The Invisible Man,1933,,"['Horror', ' Sci-Fi']",7.7,87,29400,,77,71
+The Colony,2013,,"['Action', ' Sci-Fi', ' Thriller']",5.3,28,42620,,53,95
+See You Yesterday,2019,,"['Action', ' Adventure', ' Crime']",5.1,74,8639,,51,84
+The Final Countdown,1980,,"['Action', ' Sci-Fi']",6.7,51,20978,16647800.0,67,103
+Runaway,1984,,"['Action', ' Crime', ' Sci-Fi']",5.9,50,11405,6770587.0,59,99
+The Fury,1978,,"['Horror', ' Sci-Fi']",6.4,64,13335,,64,118
+Junior,1994,PG-13,"['Comedy', ' Romance', ' Sci-Fi']",4.6,59,64126,36763355.0,46,109
+Pandemic,2016,,"['Action', ' Horror', ' Sci-Fi']",4.4,47,7521,,44,91
+Jimmy Neutron: Boy Genius,2001,,"['Animation', ' Action', ' Adventure']",6.0,65,30226,80936232.0,60,82
+Science Fiction Volume One: The Osiris Child,2016,,"['Action', ' Adventure', ' Drama']",5.6,55,7303,,56,99
+Cheech and Chong's Next Movie,1980,,"['Comedy', ' Crime', ' Sci-Fi']",6.1,66,11722,41675194.0,61,99
+The Astronaut Farmer,2006,PG,"['Adventure', ' Drama', ' Sci-Fi']",6.3,55,21903,10996440.0,63,104
+Cowboy Bebop: Tengoku no tobira,2001,,"['Animation', ' Action', ' Crime']",7.9,61,42098,1000045.0,79,115
+Gojira,1954,,"['Action', ' Drama', ' Horror']",7.6,78,28221,2423423.0,76,96
+Memoirs of an Invisible Man,1992,,"['Comedy', ' Romance', ' Sci-Fi']",6.0,48,22243,14358033.0,60,99
+Body Bags,ovie,R,"['Comedy', ' Horror', ' Sci-Fi']",6.2,54,8435,,62,91
+The Adventures of Bob & Doug McKenzie: Strange Brew,1983,,"['Comedy', ' Crime', ' Sci-Fi']",6.7,50,15453,,67,90
+Invaders from Mars,1986,,"['Horror', ' Sci-Fi']",5.6,56,7727,4884663.0,56,100
+Transit,2018,,"['Drama', ' Sci-Fi']",6.9,82,7543,815290.0,69,101
+Time Lapse,2014,,"['Horror', ' Sci-Fi', ' Thriller']",6.5,50,40640,,65,104
+Invasion of the Body Snatchers,1956,,"['Drama', ' Horror', ' Sci-Fi']",7.7,92,44000,,77,80
+Beneath the Planet of the Apes,1970,,"['Action', ' Adventure', ' Sci-Fi']",6.1,46,41263,18999718.0,61,95
+G-Force,2009,PG,"['Animation', ' Action', ' Adventure']",5.1,41,42022,119436770.0,51,88
+Alligator,1980,,"['Horror', ' Sci-Fi', ' Thriller']",6.0,62,10486,,60,91
+Seconds,1966,R,"['Sci-Fi', ' Thriller']",7.7,71,16121,,77,106
+Fantastic Voyage,1966,PG,"['Adventure', ' Family', ' Sci-Fi']",6.8,72,16798,,68,100
+Saturn 3,1980,,"['Adventure', ' Horror', ' Sci-Fi']",5.2,9,8203,,52,96
+Dreamscape,1984,PG-13,"['Action', ' Adventure', ' Horror']",6.3,63,13455,11484000.0,63,99
+Universal Soldier: Day of Reckoning,2012,R,"['Action', ' Horror', ' Mystery']",5.0,58,19053,5460.0,50,114
+Blue Thunder,1983,,"['Action', ' Crime', ' Drama']",6.4,66,16920,42313354.0,64,109
+The Cured,2017,R,"['Drama', ' Horror', ' Sci-Fi']",5.5,57,7337,20261.0,55,95
+After Midnight,2019,,"['Drama', ' Horror', ' Sci-Fi']",5.3,55,2146,,53,83
+Rememory,2017,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.2,48,15017,,62,111
+24 Hours to Live,2017,R,"['Action', ' Sci-Fi', ' Thriller']",5.8,37,12114,,58,93
+Atlas Shrugged: Part I,2011,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",5.6,28,13004,4752353.0,56,97
+On the Beach,1959,,"['Drama', ' Romance', ' Sci-Fi']",7.2,55,11761,11000000.0,72,134
+Butt Boy,2019,,"['Comedy', ' Sci-Fi', ' Thriller']",5.2,56,740,,52,99
+Final Fantasy: The Spirits Within,2001,PG-13,"['Animation', ' Action', ' Adventure']",6.4,49,79574,32131830.0,64,106
+Species II,1998,R,"['Action', ' Horror', ' Sci-Fi']",4.5,19,27041,19165560.0,45,93
+Last and First Men,2017,,['Sci-Fi'],6.4,83,919,,64,70
+S1m0ne,2002,PG-13,"['Comedy', ' Drama', ' Sci-Fi']",6.1,49,58311,9680913.0,61,117
+The Forgotten,2004,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",5.8,43,63408,66641205.0,58,91
+Phantoms,1998,R,"['Horror', ' Sci-Fi', ' Thriller']",5.5,26,19391,5657370.0,55,96
+A Shaun the Sheep Movie: Farmageddon,2019,G,"['Animation', ' Adventure', ' Comedy']",6.9,79,7993,,69,86
+Highlander II: The Quickening,1991,R,"['Action', ' Adventure', ' Fantasy']",4.3,31,42974,15556340.0,43,91
+xXx: State of the Union,2005,PG-13,"['Action', ' Adventure', ' Crime']",4.4,37,66587,26873932.0,44,101
+The Animal,2001,PG-13,"['Comedy', ' Sci-Fi']",4.8,43,56400,57743062.0,48,84
+Solarbabies,1986,,"['Action', ' Adventure', ' Drama']",4.8,24,3936,1579260.0,48,94
+My Super Ex-Girlfriend,2006,PG-13,"['Comedy', ' Romance', ' Sci-Fi']",5.1,50,61116,22530295.0,51,96
+Phenomenon,1996,PG,"['Drama', ' Fantasy', ' Romance']",6.4,41,73771,104636382.0,64,123
+Rupture,2016,,"['Horror', ' Sci-Fi', ' Thriller']",4.8,35,6209,,48,102
+Pulse,2006,PG-13,"['Horror', ' Sci-Fi']",4.8,27,27841,20259297.0,48,90
+Class of 1999,1990,,"['Action', ' Horror', ' Sci-Fi']",5.9,33,6582,2459895.0,59,99
+The Bay,2012,R,"['Horror', ' Sci-Fi', ' Thriller']",5.6,65,24942,30474.0,56,84
+The Machine,2013,R,"['Action', ' Drama', ' Sci-Fi']",6.1,52,29780,,61,91
+The X Files: I Want to Believe,2008,PG-13,"['Crime', ' Drama', ' Horror']",5.9,47,87975,20981633.0,59,104
+Supernova,2000,PG-13,"['Horror', ' Sci-Fi', ' Thriller']",4.9,19,16919,14218868.0,49,90
+Banlieue 13,2004,R,"['Action', ' Crime', ' Sci-Fi']",7.2,70,65866,1197786.0,72,84
+Left Behind,2000,PG-13,"['Action', ' Drama', ' Fantasy']",4.5,22,8950,4224065.0,45,100
+Astro Boy,2009,PG,"['Animation', ' Action', ' Comedy']",6.3,53,32616,19548064.0,63,94
+Piranha Part Two: The Spawning,1981,,"['Drama', ' Horror', ' Romance']",3.7,15,7603,,37,94
+Virus,1999,R,"['Action', ' Horror', ' Sci-Fi']",5.0,19,26210,14010690.0,50,99
+Ratchet & Clank,2016,PG,"['Animation', ' Action', ' Adventure']",5.6,29,9716,8549740.0,56,94
+Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,1998,,"['Animation', ' Action', ' Adventure']",6.3,35,39317,85744662.0,63,96
+Scorched Earth,2018,R,"['Action', ' Drama', ' Sci-Fi']",4.5,32,2536,,45,96
+Clockstoppers,2002,PG,"['Action', ' Adventure', ' Comedy']",5.2,40,13287,36985501.0,52,94
+Deadly Friend,1986,,"['Drama', ' Horror', ' Sci-Fi']",5.6,44,6571,8988731.0,56,91
+Volition,2019,,"['Sci-Fi', ' Thriller']",5.6,62,866,,56,91
+Return of the Living Dead: Part II,1988,,"['Comedy', ' Horror', ' Sci-Fi']",5.8,45,17942,9205924.0,58,89
+A Boy and His Dog,1975,,"['Comedy', ' Drama', ' Sci-Fi']",6.5,68,16340,6900000.0,65,91
+Liquid Sky,1982,,"['Sci-Fi', ' Thriller']",6.1,66,5597,,61,112
+Bis ans Ende der Welt,1991,R,"['Action', ' Drama', ' Sci-Fi']",6.7,63,8919,752856.0,67,158
+The Adventures of Pluto Nash,2002,PG-13,"['Action', ' Comedy', ' Sci-Fi']",3.8,12,24257,4420080.0,38,95
+Vice,2015,R,"['Action', ' Adventure', ' Sci-Fi']",4.2,17,15294,,42,96
+Kingsglaive: Final Fantasy XV,2016,PG-13,"['Animation', ' Action', ' Adventure']",6.8,35,19710,233569.0,68,110
+The Astronaut's Wife,1999,R,"['Drama', ' Sci-Fi', ' Thriller']",5.4,37,52291,10672566.0,54,109
+Jonathan,2018,,"['Drama', ' Sci-Fi']",5.9,62,5232,,59,95
+Black Sheep,2006,,"['Comedy', ' Horror', ' Sci-Fi']",5.8,62,38740,82987.0,58,87
+Nutty Professor II: The Klumps,2000,PG-13,"['Comedy', ' Romance', ' Sci-Fi']",4.4,38,47717,123309890.0,44,106
+Meet Dave,2008,PG,"['Adventure', ' Comedy', ' Family']",5.0,43,37957,11802056.0,50,90
+Babylon A.D.,2008,PG-13,"['Action', ' Adventure', ' Sci-Fi']",5.6,26,92598,22532572.0,56,90
+Body Snatchers,1993,R,"['Horror', ' Sci-Fi']",6.0,65,16406,428868.0,60,87
+John Dies at the End,2012,R,"['Comedy', ' Fantasy', ' Horror']",6.4,53,35813,141307.0,64,99
+Rollerball,2002,PG-13,"['Action', ' Sci-Fi', ' Sport']",3.1,14,25474,18990798.0,31,98
+Alien Nation,1988,,"['Action', ' Sci-Fi']",6.3,45,13944,25216243.0,63,91
+Hellraiser: Bloodline,1996,R,"['Horror', ' Sci-Fi']",5.2,21,18887,16675000.0,52,85
+Kairo,2001,R,"['Horror', ' Mystery', ' Sci-Fi']",6.5,70,16155,49046.0,65,119
+Radioflash,2019,,"['Action', ' Drama', ' Sci-Fi']",5.6,34,2206,,56,103
+Ra.One,2011,,"['Action', ' Adventure', ' Sci-Fi']",4.7,60,37630,2511689.0,47,156
+The Computer Wore Tennis Shoes,1969,,"['Comedy', ' Family', ' Sci-Fi']",6.0,54,4410,728653.0,60,91
+Planet 51,2009,PG,"['Animation', ' Adventure', ' Comedy']",6.0,39,50028,42086887.0,60,91
+The Man with Two Brains,1983,,"['Comedy', ' Romance', ' Sci-Fi']",6.4,61,23888,10100000.0,64,93
+Attack of the Killer Tomatoes!,1978,,"['Adventure', ' Comedy', ' Horror']",4.7,9,12351,,47,83
+Robot & Frank,2012,PG-13,"['Comedy', ' Crime', ' Drama']",7.1,67,61328,3325638.0,71,89
+Demon Seed,1977,,"['Horror', ' Sci-Fi']",6.3,55,8026,,63,94
+Diary of the Dead,2007,R,"['Fantasy', ' Horror', ' Sci-Fi']",5.6,66,45493,958961.0,56,95
+These Final Hours,2013,,"['Drama', ' Sci-Fi', ' Thriller']",6.7,61,15750,,67,87
+Monkey Shines,1988,R,"['Drama', ' Horror', ' Sci-Fi']",6.2,71,10427,5344577.0,62,113
+Mars Needs Moms,2011,PG,"['Animation', ' Action', ' Adventure']",5.4,49,20819,21379315.0,54,88
+Underdog,2007,PG,"['Action', ' Adventure', ' Comedy']",4.7,37,19357,43751706.0,47,84
+Universal Soldier: The Return,1999,R,"['Action', ' Sci-Fi']",4.2,24,27515,10431220.0,42,83
+The Return of Swamp Thing,1989,,"['Action', ' Adventure', ' Comedy']",4.7,39,4196,192816.0,47,88
+Futureworld,1976,,"['Sci-Fi', ' Thriller']",5.8,46,9658,,58,108
+Baby Geniuses,1999,PG,"['Comedy', ' Crime', ' Family']",2.6,6,24807,27141959.0,26,97
+Muppets from Space,1999,,"['Adventure', ' Comedy', ' Family']",6.3,53,17786,16625807.0,63,87
+The Last Mimzy,2007,PG,"['Drama', ' Family', ' Sci-Fi']",6.2,59,20623,21471047.0,62,90
+A Sound of Thunder,2005,PG-13,"['Action', ' Adventure', ' Horror']",4.2,24,18707,1891821.0,42,110
+Vampire Hunter D: Bloodlust,2000,R,"['Animation', ' Action', ' Fantasy']",7.7,62,28699,151086.0,77,103
+Alone in the Dark,2005,R,"['Action', ' Horror', ' Sci-Fi']",2.4,9,41427,5178569.0,24,99
+Pánico en el Transiberiano,1972,,"['Horror', ' Sci-Fi']",6.5,68,8933,,65,91
+Highlander: Endgame,2000,R,"['Action', ' Adventure', ' Fantasy']",4.6,21,19162,12801190.0,46,87
+The Crazies,1973,,"['Action', ' Horror', ' Sci-Fi']",6.1,63,11056,150000.0,61,103
+My Science Project,1985,,"['Action', ' Adventure', ' Comedy']",6.1,38,5234,4122748.0,61,94
+Sleeper,1973,,"['Comedy', ' Sci-Fi']",7.2,77,39319,2905334.0,72,89
+Silent Rage,1982,,"['Action', ' Crime', ' Horror']",5.5,31,4953,10490791.0,55,103
+Critters 2,1988,,"['Comedy', ' Horror', ' Sci-Fi']",5.5,48,13580,3813293.0,55,86
+The Cat from Outer Space,1978,,"['Comedy', ' Family', ' Sci-Fi']",6.1,58,4373,,61,104
+Godsend,2004,PG-13,"['Action', ' Drama', ' Fantasy']",4.8,24,24666,14379751.0,48,102
+Superbabies: Baby Geniuses 2,2004,PG,"['Comedy', ' Family', ' Sci-Fi']",1.9,9,29580,9109322.0,19,88
+Stake Land,2010,R,"['Drama', ' Horror', ' Sci-Fi']",6.5,66,40211,18469.0,65,98
+Comet,2014,R,"['Comedy', ' Drama', ' Romance']",6.8,52,17312,,68,91
+Highlander III: The Sorcerer,1994,PG-13,"['Action', ' Fantasy', ' Romance']",4.5,28,19593,13829734.0,45,99
+Sound of My Voice,2011,R,"['Drama', ' Mystery', ' Sci-Fi']",6.6,67,20382,405614.0,66,87
+The Nines,2007,R,"['Drama', ' Fantasy', ' Mystery']",6.3,52,32493,62745.0,63,100
+Extinction,2015,R,"['Drama', ' Horror', ' Sci-Fi']",5.9,46,15663,,59,112
+Turbo: A Power Rangers Movie,1997,PG,"['Action', ' Adventure', ' Family']",3.7,35,8087,8363899.0,37,99
+New Rose Hotel,1998,R,"['Drama', ' Mystery', ' Sci-Fi']",5.1,31,4425,20416.0,51,93
+[Rec]²,2009,R,"['Action', ' Adventure', ' Fantasy']",6.5,52,67746,27766.0,65,85
+Extraterrestrial,2014,,"['Action', ' Horror', ' Mystery']",5.0,38,14549,,50,101
+Kaboom,2010,,"['Comedy', ' Mystery', ' Romance']",5.7,64,12333,116478.0,57,86
+Nekrotronic,2018,R,"['Action', ' Comedy', ' Horror']",5.5,25,1934,,55,99
+Jupiter holdja,2017,,"['Drama', ' Fantasy', ' Mystery']",6.0,56,2761,,60,129
+Code 46,2003,R,"['Drama', ' Romance', ' Sci-Fi']",6.2,57,19791,197148.0,62,93
+Agent Cody Banks 2: Destination London,2004,PG,"['Action', ' Adventure', ' Comedy']",4.6,32,13879,23222861.0,46,100
+Impostor,2001,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",6.2,33,22393,6114237.0,62,95
+Perfect,2018,,"['Horror', ' Mystery', ' Sci-Fi']",4.0,36,704,,40,88
+Officer Downe,2016,R,"['Action', ' Comedy', ' Sci-Fi']",4.2,26,1836,734.0,42,88
+Storage 24,2012,R,"['Action', ' Horror', ' Mystery']",4.4,52,6570,,44,87
+Looker,1981,,"['Drama', ' Sci-Fi', ' Thriller']",6.1,20,4658,3282232.0,61,93
+My Favorite Martian,1999,PG,"['Comedy', ' Family', ' Sci-Fi']",5.1,33,12679,36830057.0,51,94
+Escape from the Planet of the Apes,1971,,"['Action', ' Sci-Fi']",6.3,69,31508,12300000.0,63,98
+[REC] 4: Apocalipsis,2014,R,"['Action', ' Adventure', ' Fantasy']",5.3,53,15940,708.0,53,95
+Bounty Killer,2013,R,"['Action', ' Sci-Fi', ' Thriller']",5.5,48,6722,,55,92
+Prophecy,1979,,"['Horror', ' Sci-Fi', ' Thriller']",5.5,41,4335,18389402.0,55,102
+Return from Witch Mountain,1978,,"['Family', ' Adventure', ' Sci-Fi']",5.8,51,4416,,58,95
+Kingu Kongu tai Gojira,1962,,"['Action', ' Adventure', ' Comedy']",5.9,40,8268,2725000.0,59,97
+Mutafukaz,2017,R,"['Animation', ' Action', ' Comedy']",6.7,48,3243,229423.0,67,94
+Na srebrnym globie,1988,,"['Adventure', ' Drama', ' Fantasy']",7.3,72,2309,,73,166
+Promare: Puromea,2019,PG-13,"['Animation', ' Action', ' Adventure']",7.2,77,2065,,72,111
+Frogs,1972,,"['Horror', ' Mystery', ' Sci-Fi']",4.4,51,5732,475265.0,44,91
+Grabbers,2012,,"['Action', ' Adventure', ' Comedy']",6.3,62,16737,,63,94
+Trudno byt bogom,2013,,"['Drama', ' Sci-Fi']",6.7,90,4795,,67,177
+Charly,1968,M,"['Drama', ' Romance', ' Sci-Fi']",7.0,50,6124,15826800.0,70,103
+Young Ones,2014,R,"['Action', ' Drama', ' Romance']",5.9,47,9143,,59,100
+Madame Hyde,2017,,"['Comedy', ' Drama', ' Sci-Fi']",5.2,60,1253,18627.0,52,95
+Detention,2011,R,"['Comedy', ' Horror', ' Mystery']",5.7,45,14731,,57,95
+Battle for the Planet of the Apes,1973,,"['Action', ' Sci-Fi']",5.5,40,28367,8844595.0,55,93
+The Congress,2013,,"['Animation', ' Drama', ' Sci-Fi']",6.5,63,17146,137815.0,65,122
+Free Birds,2013,PG,"['Animation', ' Adventure', ' Comedy']",5.8,38,22132,55750480.0,58,91
+Monsters: Dark Continent,2014,R,"['Action', ' Drama', ' Horror']",4.3,42,9926,,43,119
+Moon 44,1990,,"['Action', ' Sci-Fi', ' Thriller']",5.1,39,4637,,51,98
+Area 51,2015,R,"['Horror', ' Mystery', ' Sci-Fi']",4.2,30,12968,,42,91
+Phantasm II,1988,,"['Action', ' Fantasy', ' Horror']",6.5,42,13029,7282851.0,65,97
+First Light,2018,,"['Drama', ' Sci-Fi', ' Thriller']",5.5,49,2973,2539.0,55,90
+Village of the Damned,1960,,"['Horror', ' Sci-Fi']",7.3,77,14593,,73,77
++1,2013,,"['Romance', ' Sci-Fi', ' Thriller']",5.5,60,7683,,55,96
+Universal Soldier: Regeneration,2009,R,"['Action', ' Adventure', ' Sci-Fi']",5.2,70,24429,,52,97
+Saturday the 14th,1981,,"['Comedy', ' Fantasy', ' Horror']",4.7,13,3479,,47,75
+Space Station 76,2014,R,"['Comedy', ' Drama', ' Sci-Fi']",4.9,49,7793,,49,93
+The Survivalist,2015,,"['Drama', ' Sci-Fi', ' Thriller']",6.4,80,15589,,64,104
+Here Alone,2016,,"['Drama', ' Horror', ' Sci-Fi']",5.6,59,6453,,56,98
+Kill Switch,2017,R,"['Action', ' Sci-Fi', ' Thriller']",4.8,31,6799,,48,91
+Banshee Chapter,2013,R,"['Horror', ' Mystery', ' Sci-Fi']",5.5,62,8968,,55,87
+Right at Your Door,2006,R,"['Drama', ' Sci-Fi', ' Thriller']",6.1,57,12979,64802.0,61,96
+Cabin Fever: Patient Zero,2014,,"['Horror', ' Sci-Fi']",4.4,30,6939,,44,91
+Inosensu: Innocence,2004,PG-13,"['Animation', ' Action', ' Drama']",7.5,66,35672,1043896.0,75,100
+Conquest of the Planet of the Apes,1972,,"['Action', ' Sci-Fi']",6.1,49,29650,9810000.0,61,88
+Avril et le monde truqué,2015,PG,"['Animation', ' Adventure', ' Comedy']",7.3,85,6605,294313.0,73,105
+Gentlemen Broncos,2009,PG-13,"['Adventure', ' Comedy', ' Sci-Fi']",6.2,28,10795,113155.0,62,89
+The Manhattan Project,1986,,"['Sci-Fi', ' Thriller']",6.2,61,5333,3900000.0,62,117
+Divino Amor,2019,,"['Drama', ' Sci-Fi']",6.3,86,1452,,63,101
+Samâ uôzu,2009,PG,"['Animation', ' Action', ' Adventure']",7.5,63,25577,78182.0,75,114
+Sleight,2016,R,"['Drama', ' Sci-Fi']",5.9,62,7713,3847290.0,59,89
+Just Visiting,2001,PG-13,"['Comedy', ' Fantasy', ' Sci-Fi']",5.8,38,18106,4777007.0,58,88
+Advantageous,2015,,"['Drama', ' Family', ' Sci-Fi']",6.2,59,4595,,62,90
+The Dead,2010,R,"['Action', ' Adventure', ' Drama']",5.7,59,8738,,57,105
+The Master Cleanse,2016,R,"['Comedy', ' Drama', ' Fantasy']",5.3,58,1752,,53,81
+The Absent Minded Professor,1961,,"['Comedy', ' Family', ' Sci-Fi']",6.8,75,7212,25381407.0,68,92
+Steel Dawn,1987,,"['Action', ' Adventure', ' Sci-Fi']",5.2,24,4545,562187.0,52,101
+Fido,2006,R,"['Comedy', ' Drama', ' Horror']",6.7,70,27873,298110.0,67,93
+The Bride,1985,,"['Fantasy', ' Horror', ' Romance']",5.4,30,2843,3600000.0,54,118
+The Apple,1980,,"['Music', ' Musical', ' Sci-Fi']",4.4,39,1934,,44,90
+Deathsport,1978,,"['Action', ' Drama', ' Sci-Fi']",4.1,33,1539,,41,82
+Wing Commander,1999,PG-13,"['Action', ' Adventure', ' Sci-Fi']",4.3,21,16001,11576087.0,43,100
+Cocoon: The Return,1988,,"['Adventure', ' Comedy', ' Mystery']",5.5,45,15147,18924919.0,55,116
+Mænd & høns,2015,,"['Comedy', ' Drama', ' Mystery']",6.7,64,10141,30127.0,67,104
+Digging Up the Marrow,2014,,"['Biography', ' Comedy', ' Drama']",5.8,45,4579,,58,89
+Escape from Planet Earth,2012,PG,"['Animation', ' Adventure', ' Comedy']",5.9,35,24269,57012977.0,59,89
+In My Room,2018,,"['Drama', ' Sci-Fi']",6.3,84,593,,63,119
+Air,2015,PG-13,"['Drama', ' Sci-Fi', ' Thriller']",5.1,33,11576,,51,95
+Atlas Shrugged II: The Strike,2012,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",5.3,26,6698,3336053.0,53,111
+Project X,1987,,"['Comedy', ' Drama', ' Sci-Fi']",6.1,61,10010,18532286.0,61,108
+The Anomaly,2014,,"['Action', ' Mystery', ' Sci-Fi']",4.7,27,7177,,47,97
+"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",2017,,"['Animation', ' Drama', ' Family']",5.5,40,2389,525280.0,55,90
+Lazer Team,2015,PG-13,"['Action', ' Comedy', ' Sci-Fi']",5.6,42,9072,1149878.0,56,102
+Synchronicity,2015,R,"['Drama', ' Mystery', ' Romance']",5.5,39,10103,4267.0,55,101
+The Strongest Man in the World,1975,,"['Comedy', ' Family', ' Sci-Fi']",6.1,63,2684,,61,92
+Escape from Tomorrow,2013,,"['Drama', ' Fantasy', ' Horror']",5.1,58,9071,169719.0,51,90
+Dylan Dog: Dead of Night,2010,PG-13,"['Action', ' Comedy', ' Crime']",5.1,31,14536,1183354.0,51,108
+Marjorie Prime,2017,,"['Drama', ' Romance', ' Sci-Fi']",6.3,82,5532,180608.0,63,99
+Terra,2007,PG,"['Animation', ' Action', ' Adventure']",6.5,54,11230,1647083.0,65,85
+Atlantis,2019,,"['Drama', ' Sci-Fi']",6.3,80,333,,63,106
+The Lovers,2015,R,"['Action', ' Adventure', ' Romance']",4.6,19,3047,,46,109
+Meteor,1979,,"['Action', ' Drama', ' Sci-Fi']",5.0,27,6495,,50,108
+Earth to Echo,2014,PG,"['Adventure', ' Family', ' Sci-Fi']",5.8,53,18170,38916903.0,58,91
+A Christmas Horror Story,2015,,"['Fantasy', ' Horror', ' Mystery']",5.7,49,8968,,57,99
+Smilla's Sense of Snow,1997,R,"['Crime', ' Drama', ' Mystery']",6.4,45,13635,2221994.0,64,121
+The Million Dollar Duck,1971,,"['Comedy', ' Family', ' Sci-Fi']",5.9,45,1958,11118000.0,59,89
+Cheung gong 7 hou,2008,PG,"['Comedy', ' Drama', ' Family']",6.4,46,14272,206678.0,64,88
+The Day,2011,R,"['Action', ' Drama', ' Horror']",5.2,41,12149,20502.0,52,87
+Youth Without Youth,2007,R,"['Drama', ' Fantasy', ' Mystery']",6.2,43,12850,244397.0,62,124
+Stridulum,1979,,"['Horror', ' Sci-Fi']",5.2,65,2932,,52,108
+The Incredible Shrinking Man,1957,,"['Horror', ' Sci-Fi']",7.6,73,15641,,76,81
+Jetsons: The Movie,1990,,"['Animation', ' Comedy', ' Family']",5.6,46,4660,10900000.0,56,82
+The Signal,2007,R,"['Horror', ' Sci-Fi', ' Thriller']",6.0,63,20214,597420.0,60,103
+Kafka,1991,,"['Drama', ' Mystery', ' Sci-Fi']",6.9,46,9378,1059071.0,69,98
+4:44 Last Day on Earth,2011,R,"['Drama', ' Fantasy', ' Sci-Fi']",4.6,54,4990,15738.0,46,82
+Phoenix Forgotten,2017,PG-13,"['Horror', ' Mystery', ' Sci-Fi']",5.3,33,5462,3599570.0,53,87
+Riot Girls,2019,,"['Action', ' Sci-Fi']",4.4,59,469,,44,81
+Good Boy!,2003,PG,"['Comedy', ' Drama', ' Family']",5.1,49,4021,37566230.0,51,88
+The Medusa Touch,1978,,"['Horror', ' Sci-Fi']",7.0,49,5671,,70,109
+Atlas Shrugged: Part III,2014,PG-13,"['Drama', ' Mystery', ' Sci-Fi']",4.3,9,2972,851690.0,43,99
+Modern Problems,1981,,"['Comedy', ' Fantasy', ' Sci-Fi']",5.1,27,4797,26154211.0,51,93
+Portals,2019,,"['Horror', ' Sci-Fi']",3.0,30,577,,30,85
+Welt am Draht,73– ,,"['Crime', ' Mystery', ' Sci-Fi']",7.8,76,5235,,78,212
+Metoroporisu,2001,PG-13,"['Animation', ' Adventure', ' Drama']",7.2,75,19932,636830.0,72,108
+The Remaining,2014,PG-13,"['Drama', ' Horror', ' Mystery']",4.3,38,6599,1169603.0,43,88
+Citizen Toxie: The Toxic Avenger IV,2000,R,"['Action', ' Comedy', ' Fantasy']",6.1,41,5096,,61,109
+Aftermath,2014,,"['Horror', ' Sci-Fi', ' Thriller']",4.7,40,1709,350000.0,47,92
+Ballistic: Ecks vs. Sever,2002,R,"['Action', ' Crime', ' Mystery']",3.7,19,19022,14294842.0,37,91
+Évolution,2015,,"['Drama', ' Horror', ' Mystery']",5.9,77,6098,,59,81
+The Manitou,1978,PG,"['Horror', ' Sci-Fi']",5.4,47,2551,,54,104
+Marooned,1969,,"['Adventure', ' Drama', ' Sci-Fi']",5.9,62,4536,8938000.0,59,134
+Godzilla 1985,1985,,"['Action', ' Horror', ' Sci-Fi']",6.3,31,5889,4116395.0,63,87
+Jeruzalem,2015,R,"['Horror', ' Sci-Fi', ' Thriller']",4.8,45,8206,,48,94
+Robot Overlords,2014,PG-13,"['Action', ' Adventure', ' Sci-Fi']",4.6,47,6615,,46,90
+Branded,2012,R,"['Drama', ' Fantasy', ' Sci-Fi']",4.7,20,8765,353468.0,47,106
+Mighty Joe Young,1949,,"['Adventure', ' Drama', ' Fantasy']",7.0,61,4551,,70,94
+The Scribbler,2014,R,"['Mystery', ' Sci-Fi', ' Thriller']",5.4,32,4660,,54,88
+Digimon: The Movie,2000,PG,"['Animation', ' Action', ' Adventure']",6.1,20,6736,9631153.0,61,82
+Sakasama no Patema,2013,,"['Animation', ' Adventure', ' Drama']",7.4,66,7438,,74,98
+Nightmares,1983,,"['Horror', ' Sci-Fi']",5.8,39,2861,6670680.0,58,99
+Space Chimps,2008,,"['Animation', ' Adventure', ' Comedy']",4.5,36,10668,30105968.0,45,81
+What Planet Are You From?,2000,R,"['Comedy', ' Sci-Fi']",5.6,41,9001,6291602.0,56,105
+The Brother from Another Planet,1984,R,"['Comedy', ' Sci-Fi']",6.7,70,5398,3700000.0,67,108
+Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,R,"['Animation', ' Action', ' Adventure']",6.7,54,13231,5518918.0,67,86
+The Mating Habits of the Earthbound Human,1999,R,"['Comedy', ' Sci-Fi']",6.4,26,5975,,64,88
+Eva,2011,PG-13,"['Drama', ' Fantasy', ' Sci-Fi']",6.7,57,9446,10395.0,67,94
+The Diabolical,2015,,"['Horror', ' Sci-Fi']",4.7,25,5200,,47,86
+Gojira ni-sen mireniamu,1999,PG,"['Action', ' Adventure', ' Drama']",6.1,41,7374,10037390.0,61,99
+Abominable,2006,R,"['Horror', ' Sci-Fi', ' Thriller']",5.1,31,4081,,51,94
+Luis and His Friends from Outer Space,2018,PG,"['Animation', ' Adventure', ' Comedy']",6.0,46,1997,154170.0,60,86
+Big Ass Spider!,2013,PG-13,"['Action', ' Adventure', ' Comedy']",5.3,53,6744,,53,80
+Renaissance,2006,R,"['Animation', ' Action', ' Sci-Fi']",6.7,57,15533,63260.0,67,105
+Approaching the Unknown,2016,R,"['Drama', ' Sci-Fi', ' Thriller']",4.8,53,8146,,48,90
+Undead,2003,R,"['Action', ' Comedy', ' Fantasy']",5.4,34,12495,41196.0,54,104
+Stranded,2013,,"['Horror', ' Sci-Fi']",3.5,27,3871,,35,84
+Cities of Last Things,2018,,"['Crime', ' Drama', ' Sci-Fi']",6.2,66,1160,,62,106
+Godzilla: King of the Monsters!,1956,,"['Action', ' Horror', ' Sci-Fi']",6.5,60,6899,,65,80
+Realive,2016,,"['Drama', ' Sci-Fi']",5.9,59,4805,,59,112
+Alien Abduction,2014,,"['Horror', ' Sci-Fi', ' Thriller']",4.9,46,7882,,49,85
+It's All About Love,2003,R,"['Drama', ' Romance', ' Sci-Fi']",5.4,32,7891,6140.0,54,106
+Lawnmower Man 2: Beyond Cyberspace,1996,PG-13,"['Action', ' Sci-Fi', ' Thriller']",2.5,29,8860,2409225.0,25,93
+Radio Free Albemuth,2010,R,"['Drama', ' Sci-Fi']",5.6,35,1562,5553.0,56,111
+Andròn: The Black Labyrinth,2015,R,"['Action', ' Sci-Fi']",2.7,16,2773,,27,100
+Memory: The Origins of Alien,2019,,"['Documentary', ' Horror', ' Sci-Fi']",6.7,70,1961,,67,95
+Metropia,2009,,"['Animation', ' Drama', ' Mystery']",6.3,47,7370,,63,86
+Beneath,2013,,"['Horror', ' Sci-Fi', ' Thriller']",3.7,40,2942,,37,90
+Gap tung kei hap,2014,R,"['Action', ' Comedy', ' History']",4.8,32,3289,7679.0,48,104
+"Psiconautas, los niños olvidados",2015,,"['Animation', ' Drama', ' Horror']",7.3,76,1985,38786.0,73,76
+Tank 432,2015,,"['Action', ' Horror', ' Mystery']",3.2,43,1807,,32,88
+Krrish,2006,,"['Action', ' Sci-Fi']",6.4,68,17869,,64,185
+Suchîmubôi,2004,PG-13,"['Animation', ' Action', ' Adventure']",6.9,66,16524,410388.0,69,126
+The Returned,2013,,"['Crime', ' Drama', ' Horror']",5.9,47,7995,,59,98
+Curvature,2017,,"['Mystery', ' Sci-Fi', ' Thriller']",4.8,38,1674,,48,90
+CQ,2001,R,"['Drama', ' Comedy', ' Sci-Fi']",6.2,56,4545,411034.0,62,88
+Antibirth,2016,,"['Comedy', ' Horror', ' Mystery']",4.9,56,2994,,49,94
+Poison,1991,R,"['Drama', ' Horror', ' Romance']",6.5,67,3881,609524.0,65,85
+Return to Nuke 'Em High Volume 1,2013,,"['Action', ' Comedy', ' Drama']",5.5,40,1862,,55,85
+The Powerpuff Girls Movie,2002,PG,"['Animation', ' Action', ' Adventure']",6.6,65,9121,11411644.0,66,73
+Stung,2015,,"['Action', ' Adventure', ' Comedy']",5.1,46,4624,,51,87
+The Spaceman and King Arthur,1979,,"['Comedy', ' Family', ' Adventure']",5.3,66,961,,53,93
+Hagane no renkinjutsushi: Mirosu no seinaru hoshi,2011,,"['Animation', ' Action', ' Adventure']",7.0,54,4297,177802.0,70,110
+Diamantino,2018,,"['Comedy', ' Drama', ' Fantasy']",6.4,75,2348,70088.0,64,96
+Appurushîdo,2004,R,"['Animation', ' Action', ' Adventure']",7.0,40,17438,129135.0,70,101
+Sanpo suru shinryakusha,2017,,"['Drama', ' Sci-Fi']",6.0,64,1541,45190.0,60,129
+Alien Trespass,2009,PG,"['Comedy', ' Horror', ' Sci-Fi']",5.7,48,3725,104526.0,57,90
+The Omega Code,1999,PG-13,"['Action', ' Adventure', ' Fantasy']",3.6,14,5008,12614346.0,36,100
+Spark: A Space Tail,2016,PG,"['Animation', ' Action', ' Adventure']",4.5,22,1032,190511.0,45,91
+Jack Brooks: Monster Slayer,2007,R,"['Action', ' Comedy', ' Horror']",5.9,46,5973,,59,85
+Dai-Nihonjin,2007,PG-13,"['Action', ' Comedy', ' Sci-Fi']",6.3,62,3441,40257.0,63,113
+The Objective,2008,,"['Horror', ' Sci-Fi', ' Thriller']",5.5,26,7752,2245000.0,55,90
+The Terminal Man,1974,,"['Horror', ' Sci-Fi', ' Thriller']",5.7,41,1972,,57,107
+Jigureul jikyeora!,2003,,"['Comedy', ' Sci-Fi', ' Thriller']",7.3,70,7428,14624.0,73,118
+The Human Race,2013,,"['Action', ' Horror', ' Sci-Fi']",5.2,32,10271,,52,87
+William,2019,,"['Adventure', ' Drama', ' Family']",5.5,57,404,,55,100
+Griff the Invisible,2010,PG-13,"['Comedy', ' Drama', ' Romance']",6.1,49,4616,,61,90
+Time Changer,2002,PG,"['Drama', ' Fantasy', ' Sci-Fi']",5.2,26,2234,1284142.0,52,95
+The Mind's Eye,2015,,"['Action', ' Horror', ' Sci-Fi']",4.6,55,1727,,46,87
+Teacher's Pet,2004,PG,"['Animation', ' Adventure', ' Comedy']",5.8,74,1560,6491350.0,58,73
+The Damned,1962,,"['Drama', ' Fantasy', ' Horror']",6.6,72,2977,,66,87
+The Wild Blue Yonder,2005,,['Sci-Fi'],6.2,65,3341,,62,80
+Passion of Mind,2000,PG-13,"['Drama', ' Mystery', ' Romance']",5.5,28,3132,769009.0,55,105
+The Institute,2013,,"['Documentary', ' Crime', ' Mystery']",6.2,55,1164,,62,92
+Bokeh,2017,,"['Drama', ' Sci-Fi']",5.0,56,7016,,50,92
+American Hero,2015,,"['Action', ' Comedy', ' Drama']",4.9,42,3807,,49,86
+Hover,2018,,['Sci-Fi'],3.7,40,488,,37,86
+Outpost 37,2014,,"['Action', ' Sci-Fi', ' Thriller']",4.8,26,6055,,48,90
+The Gracefield Incident,2017,PG-13,"['Action', ' Horror', ' Mystery']",4.2,21,2083,,42,89
+Escaflowne,2000,PG-13,"['Adventure', ' Animation', ' Drama']",6.7,50,3382,,67,98
+Megiddo: The Omega Code 2,2001,PG-13,"['Action', ' Adventure', ' Fantasy']",4.0,35,2582,6047691.0,40,104
+Mystery Science Theater 3000: The Movie,1996,PG-13,"['Comedy', ' Sci-Fi']",7.3,65,17564,1007306.0,73,73
+"Empathy, Inc.",2018,,"['Drama', ' Horror', ' Sci-Fi']",5.2,48,345,,52,97
+Deep Burial,2017,,"['Sci-Fi', ' Thriller']",4.1,33,2000,,41,81
+Supurigan,1998,R,"['Animation', ' Action', ' Adventure']",6.6,48,3489,7420.0,66,90
+The Lost Skeleton of Cadavra,2001,PG,"['Comedy', ' Horror', ' Sci-Fi']",7.0,45,4624,143121.0,70,90
+Gekijô-ban poketto monsutaa: Mizu no Miyako no Mamori Gami Ratiasu to Ratiosu,2002,,"['Animation', ' Action', ' Adventure']",6.1,27,5356,746381.0,61,80
+Embers,2015,,"['Drama', ' Sci-Fi']",5.4,55,2002,,54,85
+Morons from Outer Space,1985,,"['Comedy', ' Sci-Fi']",4.5,39,1738,441137.0,45,90
+Teknolust,2002,R,"['Comedy', ' Drama', ' Romance']",5.3,43,1270,28811.0,53,85
+Narcopolis,2015,,"['Mystery', ' Sci-Fi', ' Thriller']",4.4,30,1719,,44,96
+4,2004,,"['Drama', ' Mystery', ' Sci-Fi']",6.6,72,2031,,66,126
+Sleep Dealer,2008,PG-13,"['Drama', ' Romance', ' Sci-Fi']",6.0,59,6266,75727.0,60,90
+Sirius,2013,,"['Documentary', ' Biography', ' Sci-Fi']",6.3,16,1553,,63,110
+Almost Human,2013,,"['Horror', ' Sci-Fi', ' Thriller']",4.6,40,2964,6986.0,46,80
+Kaena: La prophétie,2003,PG-13,"['Animation', ' Adventure', ' Family']",6.0,40,3822,7674.0,60,85
+Anatomie 2,2003,R,"['Horror', ' Sci-Fi', ' Thriller']",5.1,46,3474,,51,101
+Blutgletscher,2013,,"['Horror', ' Mystery', ' Sci-Fi']",5.4,45,3385,,54,98
+Auggie,2019,,"['Drama', ' Sci-Fi']",5.3,44,403,,53,81
+Creative Control,2015,R,"['Drama', ' Sci-Fi']",5.4,58,2061,62480.0,54,97
+Phantom Boy,2015,PG,"['Animation', ' Action', ' Adventure']",6.6,66,1357,30987.0,66,84
+Skyman,2020,,['Sci-Fi'],6.2,57,19,,62,92
+Extraterrestre,2011,,"['Comedy', ' Drama', ' Sci-Fi']",5.8,55,3761,,58,95
+Incident at Loch Ness,2004,PG-13,"['Adventure', ' Comedy', ' Fantasy']",6.5,62,3866,36830.0,65,94
+Septic Man,2013,R,"['Horror', ' Sci-Fi']",4.0,8,724,,40,83
+Zhuo yao ji 2,2018,,"['Adventure', ' Comedy', ' Fantasy']",5.3,63,1326,706153.0,53,110
+Special,2006,R,"['Comedy', ' Drama', ' Sci-Fi']",6.9,57,5340,6387.0,69,81
+War of the Worlds: Goliath,2012,PG-13,"['Animation', ' Action', ' Adventure']",5.4,33,1082,13385.0,54,85
+Mutant Aliens,2001,R,"['Animation', ' Comedy', ' Sci-Fi']",6.8,39,1041,,68,81
+Hirune-hime: Shiranai watashi no monogatari,2017,,"['Animation', ' Adventure', ' Drama']",6.3,69,1073,48198.0,63,111
+Zebraman,2004,,"['Comedy', ' Sci-Fi']",6.6,62,3139,,66,115
+Closer to God,2014,,"['Horror', ' Sci-Fi', ' Thriller']",4.6,54,893,,46,81
+The History of Future Folk,2012,,"['Comedy', ' Music', ' Sci-Fi']",7.2,67,2113,17646.0,72,86
+Hangar 10,2014,,"['Horror', ' Sci-Fi', ' Thriller']",3.7,28,1445,,37,87
+Reversion,2015,,"['Sci-Fi', ' Thriller']",5.2,40,145,,52,84
+The American Astronaut,2001,,"['Musical', ' Comedy', ' Sci-Fi']",7.1,51,2970,38170.0,71,91
+Brand Upon the Brain! A Remembrance in 12 Chapters,2006,,"['Comedy', ' Drama', ' Fantasy']",7.3,79,3313,227064.0,73,95
+Dead or Alive: Final,2002,,"['Action', ' Comedy', ' Crime']",5.7,34,2313,,57,89
+From Other Worlds,2004,,"['Comedy', ' Sci-Fi']",4.8,43,150,,48,88
+Letters from the Big Man,2011,,"['Drama', ' Sci-Fi']",6.2,66,162,,62,104
+Tito e os Pássaros,2018,,"['Animation', ' Action', ' Drama']",6.5,76,390,4332.0,65,73
+The Girl from Monday,2005,R,"['Action', ' Comedy', ' Sci-Fi']",5.2,45,983,,52,84
+The Sticky Fingers of Time,1997,,['Sci-Fi'],6.1,59,425,18195.0,61,81
+Aurora,2012,,"['Romance', ' Sci-Fi', ' Thriller']",6.0,58,2509,,60,124
+WXIII: Patlabor the Movie 3,2002,R,"['Sci-Fi', ' Animation', ' Action']",6.8,47,1096,,68,102
+Ritânâ,2002,R,"['Action', ' Adventure', ' Sci-Fi']",6.4,36,10976,69886.0,64,116
+Shurayukihime,2001,R,"['Action', ' Sci-Fi']",5.7,59,2881,,57,92
+Listening,2014,,"['Drama', ' Sci-Fi', ' Thriller']",5.6,35,3064,,56,100
+Wonderful Days,2003,,"['Animation', ' Action', ' Adventure']",6.7,53,8935,29425.0,67,86
+The Reconstruction of William Zero,2014,,"['Drama', ' Sci-Fi', ' Thriller']",5.4,57,1103,2000.0,54,98
+Ejecta,2014,,"['Horror', ' Sci-Fi']",3.7,53,1344,,37,82
+Generation P,2011,,"['Comedy', ' Drama', ' Sci-Fi']",6.8,65,3585,6724.0,68,112
+Absence,2013,,"['Horror', ' Sci-Fi', ' Thriller']",4.1,20,767,,41,84
+Movement and Location,2014,,"['Drama', ' Mystery', ' Sci-Fi']",6.8,74,94,,68,96
+Dokfa nai meuman,2000,,"['Documentary', ' Drama', ' Fantasy']",6.9,69,1223,,69,83
+Codependent Lesbian Space Alien Seeks Same,2011,,"['Comedy', ' Romance', ' Sci-Fi']",6.4,63,278,,64,76
+Uncle Kent 2,2015,,"['Comedy', ' Sci-Fi']",5.5,54,189,,55,73
+Ever Since the World Ended,2001,,"['Drama', ' Mystery', ' Sci-Fi']",5.0,64,684,,50,78
+Allegro,2005,,"['Drama', ' Romance', ' Sci-Fi']",6.6,63,1854,7346.0,66,88
+2009 loseuteu maemorijeu,2002,R,"['Action', ' Drama', ' Sci-Fi']",6.1,40,3220,,61,136
+Thomas est amoureux,2000,R,"['Comedy', ' Drama', ' Romance']",7.0,63,1906,39278.0,70,97
+Impolex,2009,,"['Adventure', ' Comedy', ' Drama']",5.5,32,172,,55,73
+Final,2001,R,"['Sci-Fi', ' Drama', ' Thriller']",5.9,48,1256,8693.0,59,111
+"Hey, Happy!",2001,,"['Comedy', ' Fantasy', ' Sci-Fi']",3.8,43,332,,38,75
+For the Plasma,2014,,"['Comedy', ' Drama', ' Sci-Fi']",5.7,51,119,,57,94
+You Are Here,2010,,"['Drama', ' Fantasy', ' Sci-Fi']",5.9,63,218,,59,79
+Instant Dreams,2017,,"['Documentary', ' Drama', ' Sci-Fi']",7.6,46,561,,76,91
